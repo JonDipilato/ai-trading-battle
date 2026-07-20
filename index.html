@@ -49,6 +49,10 @@
   #chartCard{margin-bottom:48px}
   #chartwrap{position:relative}
   svg{display:block;width:100%;height:auto}
+  @media(max-width:760px){
+    #chartwrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+    svg{min-width:720px}
+  }
   .legend{display:flex;gap:20px;font-size:13px;color:var(--ink2);margin-bottom:10px}
   .legend span{display:inline-flex;align-items:center;gap:7px}
   #tip{position:absolute;pointer-events:none;background:var(--surface2);border:1px solid var(--line);border-radius:10px;
