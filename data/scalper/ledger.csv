@@ -53,3 +53,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T14:20:00Z,hold,BTC-USD,approved,hold,,,,22.81,507.76,"Still accelerating cycle-over-cycle (+4.52% to +4.57%) with the position effectively at the 25% cap, so let the winner run."
 2026-07-21T14:20:00Z,hold,TSLA,approved,hold,,,,22.81,507.76,"Mean-reversion snap is still confirming (-4.15% to -3.74%) and the position sits at the cap, so hold until recovery momentum stalls."
 2026-07-21T14:20:00Z,hold,MSFT,approved,hold,,,,22.81,507.76,"Momentum flattened only marginally (+3.98% to +3.96%) near session highs — no exit signal yet, keep riding."
+2026-07-21T14:30:00Z,sell,ETH-USD,approved,ok,-0.025891,1931.15,50.00,72.81,507.95,"ETH momentum rolled over cycle-to-cycle (+5.15% to +4.90%) and the 14:20 add at $1935.72 is already underwater, so I'm scaling out half the add's exposure to bank gains and rebuild dry powder."
+2026-07-21T14:30:00Z,hold,BTC-USD,approved,hold,,,,72.81,507.95,"Only a marginal decel (+4.57% to +4.42%) after a long acceleration streak — trend intact and position is +2.4%, no exit signal yet."
+2026-07-21T14:30:00Z,hold,TSLA,approved,hold,,,,72.81,507.95,Mean-reversion snap keeps confirming for a fourth cycle (-4.15% to -3.74% to -3.41%) and the position is +2.24% — let the bounce run.
+2026-07-21T14:30:00Z,hold,MSFT,approved,hold,,,,72.81,507.95,"Momentum re-accelerated (+3.96% to +4.18%) into fresh session highs — strongest tape on the board, no reason to trim."
