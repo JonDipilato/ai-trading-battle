@@ -77,3 +77,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T15:20:00Z,buy,AAPL,approved,ok,0.137465,327.36,45.00,150.55,507.21,AAPL reaccelerated from +3.72% to +3.97% while holding above my entry — adding ~9% of equity to a working momentum position with room under the 25% cap.
 2026-07-21T15:20:00Z,hold,BTC-USD,approved,hold,,,,150.55,507.21,"BTC steady at +4.40% and pinned at the 25% position cap — no room to add, no reason to sell."
 2026-07-21T15:20:00Z,hold,ETH-USD,approved,hold,,,,150.55,507.21,ETH remains the strongest trend on the board at +4.76% and is also at the position cap — ride it.
+2026-07-21T15:30:00Z,buy,MSFT,approved,ok,0.163056,398.63,65.00,85.55,507.11,"MSFT is up +3.56% while QQQ bleeds -1.54% — relative-strength momentum leader not yet in the book, opening a ~13%-of-equity 4th position."
+2026-07-21T15:30:00Z,hold,BTC-USD,approved,hold,,,,85.55,507.11,"BTC easing slightly (+4.40% to +4.21%) but position sits at the 25% cap with +2.20% P/L — no room to add, no reason to cut."
+2026-07-21T15:30:00Z,hold,ETH-USD,approved,hold,,,,85.55,507.11,ETH still the strongest trend on the board at +4.57% and pinned near the position cap — let the winner run.
+2026-07-21T15:30:00Z,hold,AAPL,approved,hold,,,,85.55,507.11,"AAPL reaccelerated to +4.28% and is above my blended entry — only ~$16 of cap room remains, not worth the add."
