@@ -106,3 +106,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T16:30:00Z,hold,ETH-USD,approved,hold,,,,64.22,506.66,ETH +4.46% is still the strongest tape on the board and at cap — no reason to interrupt the winner.
 2026-07-21T16:30:00Z,hold,AAPL,approved,hold,,,,64.22,506.66,AAPL +4.36% vs QQQ -1.50% keeps the relative-strength thesis intact at the position cap.
 2026-07-21T16:30:00Z,hold,TSLA,approved,hold,,,,64.22,506.66,"TSLA mean-reversion bounce is working (+0.10% from -3.83% entry) and the position sits near cap, so let the snap develop."
+2026-07-21T16:40:00Z,sell,TSLA,approved,ok,-0.288701,381.09,110.02,174.24,506.73,Mean-reversion bounce has stalled at +0.02% after two cycles with TSLA still -3.81% on the day — cut the dead trade and free capital.
+2026-07-21T16:40:00Z,buy,MSFT,approved,ok,0.275943,398.63,110.00,64.24,506.73,MSFT +3.56% against QQQ -1.45% is the strongest unowned relative-strength name on the board — rotate the freed TSLA capital into live momentum at ~22% of equity.
+2026-07-21T16:40:00Z,hold,ETH-USD,approved,hold,,,,64.24,506.73,ETH +4.62% remains the strongest tape and is pinned at the 25% cap — let the winner run.
+2026-07-21T16:40:00Z,hold,AAPL,approved,hold,,,,64.24,506.73,AAPL +4.23% vs SPY -0.42% keeps the relative-strength thesis intact at the position cap.
+2026-07-21T16:40:00Z,hold,BTC-USD,approved,hold,,,,64.24,506.73,BTC +4.23% momentum is intact and the position was already trimmed last cycle — ride the remainder.
