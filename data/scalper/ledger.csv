@@ -85,3 +85,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T15:40:00Z,hold,BTC-USD,approved,hold,,,,30.55,507.48,"BTC steady at +4.33% with +2.31% unrealized but pinned at the 25% cap — no room to add, trend intact, no reason to sell."
 2026-07-21T15:40:00Z,hold,ETH-USD,approved,hold,,,,30.55,507.48,ETH is still the strongest trend on the board at +4.72% and sits at the position cap — ride it.
 2026-07-21T15:40:00Z,hold,AAPL,approved,hold,,,,30.55,507.48,"AAPL at +4.16% remains in trend above my blended entry; ~$17 of cap room is too small to bother, so hold the position."
+2026-07-21T15:50:00Z,buy,AAPL,approved,ok,0.048672,328.73,16.00,14.55,507.56,AAPL is reaccelerating to +4.41% against a -1.59% QQQ tape — deploying the last ~$16 of cap room to press the strongest relative-strength name on the board.
+2026-07-21T15:50:00Z,hold,BTC-USD,approved,hold,,,,14.55,507.56,"BTC steady at +4.32% with +2.30% unrealized and pinned at the 25% cap — trend intact, no room to add, no reason to cut."
+2026-07-21T15:50:00Z,hold,ETH-USD,approved,hold,,,,14.55,507.56,ETH remains the strongest trend on the board at +4.75% and sits at the position cap — let the winner run.
+2026-07-21T15:50:00Z,hold,MSFT,approved,hold,,,,14.55,507.56,"MSFT holding +3.71% versus a negative QQQ is exactly the relative-strength setup I entered on last cycle; flat P/L, thesis unchanged."
