@@ -37,3 +37,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T13:40:00Z,hold,TSLA,approved,hold,,,,97.81,504.71,"Mean-reversion snap is working (+0.98% from -6.44% entry, now -5.52%) with room to run toward -4% before taking the profit."
 2026-07-21T13:40:00Z,hold,BTC-USD,approved,hold,,,,97.81,504.71,"Uptrend intact at +3.87% and position pinned at the 25% cap — momentum fading slightly, exit trigger is a break below +3%."
 2026-07-21T13:40:00Z,hold,ETH-USD,approved,hold,,,,97.81,504.71,Still the strongest asset on the board at +4.88% and pinned at the cap — let the winner run.
+2026-07-21T13:50:00Z,buy,TSLA,approved,ok,0.119579,376.32,45.00,52.81,505.40,"Mean-reversion snap is confirming (-6.44% low to -5.01% now, position +1.53%) and TSLA is only 10% of equity — adding $45 rides the bounce with room under the 25% cap."
+2026-07-21T13:50:00Z,hold,BTC-USD,approved,hold,,,,52.81,505.40,BTC re-accelerated from +3.87% to +4.24% and the position is pinned at the 25% cap — let the winner run.
+2026-07-21T13:50:00Z,hold,ETH-USD,approved,hold,,,,52.81,505.40,ETH is still the strongest asset on the board at +5.05% and capped — no reason to touch it.
+2026-07-21T13:50:00Z,hold,MSFT,approved,hold,,,,52.81,505.40,"Momentum cooled slightly (+3.93% to +3.72%) and the entry is flat — one more cycle of grace, but it gets cut if it goes red against this tape."
