@@ -45,3 +45,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T14:00:00Z,hold,BTC-USD,approved,hold,,,,22.81,506.37,Still accelerating (+4.24% to +4.45% cycle-over-cycle) and pinned at the position cap — nothing to do but let it run.
 2026-07-21T14:00:00Z,hold,ETH-USD,approved,hold,,,,22.81,506.37,Strongest asset on the board at +5.32% and still making new session highs while capped — hold the full position.
 2026-07-21T14:00:00Z,hold,MSFT,approved,hold,,,,22.81,506.37,"Momentum re-ticked up (+3.72% to +3.85%) after last cycle's cooling, so the flat entry gets one more cycle before I rotate the capital."
+2026-07-21T14:10:00Z,sell,ETH-USD,approved,ok,-0.020664,1935.70,40.00,62.81,507.17,First cycle-over-cycle deceleration on ETH (+5.32% to +5.14%) after leading the board all session — scale out a third of the +1.8% winner and bank it while holding the rest for continuation.
+2026-07-21T14:10:00Z,hold,BTC-USD,approved,hold,,,,62.81,507.17,Still accelerating (+4.45% to +4.52%) with no distribution signs and the position already at the 25% cap — let the winner run.
+2026-07-21T14:10:00Z,hold,TSLA,approved,hold,,,,62.81,507.17,"Mean-reversion snap keeps confirming (-4.74% to -4.15%) and the position is at the 25% cap — thesis intact, nothing to add."
+2026-07-21T14:10:00Z,hold,MSFT,approved,hold,,,,62.81,507.17,Momentum re-accelerated again (+3.85% to +3.98%) making session highs — hold for the breakout extension.
