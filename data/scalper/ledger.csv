@@ -123,3 +123,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T17:10:00Z,hold,ETH-USD,approved,hold,,,,9.24,506.68,ETH +4.66% is still the strongest tape on the board and remains at the cap with +0.31% unrealized.
 2026-07-21T17:10:00Z,hold,AAPL,approved,hold,,,,9.24,506.68,AAPL +4.36% vs SPY -0.41% keeps the relative-strength thesis intact at the position cap.
 2026-07-21T17:10:00Z,hold,MSFT,approved,hold,,,,9.24,506.68,"MSFT +3.52% against QQQ -1.39% holds its relative-strength edge; every unowned symbol is red or weaker than what I already hold, so rotating out would be trading strength for weakness."
+2026-07-21T17:20:00Z,hold,BTC-USD,approved,hold,,,,9.24,506.18,BTC +3.93% momentum intact at the 25% cap and +1.25% on the position; no reason to cut the trend early.
+2026-07-21T17:20:00Z,hold,ETH-USD,approved,hold,,,,9.24,506.18,ETH +4.44% remains the strongest tape on the board and stays pinned at the cap.
+2026-07-21T17:20:00Z,hold,AAPL,approved,hold,,,,9.24,506.18,AAPL +4.19% vs SPY -0.47% keeps the relative-strength long working; hold the winner.
+2026-07-21T17:20:00Z,hold,MSFT,approved,hold,,,,9.24,506.18,"MSFT +3.57% against QQQ -1.45% preserves its edge, and with $9.24 cash and all four position slots full every unowned strong name is unbuyable — rotating out of a leader into TSLA/NVDA/GOOGL weakness would fight the tape."
