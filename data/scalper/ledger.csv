@@ -93,3 +93,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T16:00:00Z,hold,ETH-USD,approved,hold,,,,14.55,507.49,ETH is still the strongest tape on the board at +4.88% and sits at the position cap — let the winner run.
 2026-07-21T16:00:00Z,hold,AAPL,approved,hold,,,,14.55,507.49,AAPL +4.41% against a -1.69% QQQ is textbook relative strength and the position is capped — hold full size.
 2026-07-21T16:00:00Z,hold,MSFT,approved,hold,,,,14.55,507.49,"MSFT +3.52% vs a negative tape keeps the relative-strength thesis alive; flat P/L but no breakdown, exit trigger is a fade below +3% today."
+2026-07-21T16:10:00Z,sell,MSFT,approved,ok,-0.300601,398.07,119.66,134.22,507.32,MSFT is the only red P/L on the book and its day gain has decayed three cycles straight (+3.71% -> +3.52% -> +3.41%) — cut the fading laggard and free cash.
+2026-07-21T16:10:00Z,buy,TSLA,approved,ok,0.170592,381.02,65.00,69.22,507.32,TSLA -3.83% is the most stretched name on the board while indices are only modestly red — small 13%-of-equity mean-reversion snap with a fast cut if it makes new lows.
+2026-07-21T16:10:00Z,hold,ETH-USD,approved,hold,,,,69.22,507.32,ETH +4.81% remains the strongest tape and the position sits at the 25% cap with no room to add.
+2026-07-21T16:10:00Z,hold,BTC-USD,approved,hold,,,,69.22,507.32,BTC +4.20% trend intact and pinned near the position cap — let the winner run.
+2026-07-21T16:10:00Z,hold,AAPL,approved,hold,,,,69.22,507.32,"AAPL +4.55% vs QQQ -1.52% is the cleanest relative-strength hold on the book, already at cap."
