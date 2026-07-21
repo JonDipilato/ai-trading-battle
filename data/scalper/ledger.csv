@@ -41,3 +41,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T13:50:00Z,hold,BTC-USD,approved,hold,,,,52.81,505.40,BTC re-accelerated from +3.87% to +4.24% and the position is pinned at the 25% cap — let the winner run.
 2026-07-21T13:50:00Z,hold,ETH-USD,approved,hold,,,,52.81,505.40,ETH is still the strongest asset on the board at +5.05% and capped — no reason to touch it.
 2026-07-21T13:50:00Z,hold,MSFT,approved,hold,,,,52.81,505.40,"Momentum cooled slightly (+3.93% to +3.72%) and the entry is flat — one more cycle of grace, but it gets cut if it goes red against this tape."
+2026-07-21T14:00:00Z,buy,TSLA,approved,ok,0.079493,377.39,30.00,22.81,506.37,"Mean-reversion snap keeps confirming (-6.44% low to -4.74%, price up again since last add) so I'm pressing the winner with remaining cash while staying under the 25% cap."
+2026-07-21T14:00:00Z,hold,BTC-USD,approved,hold,,,,22.81,506.37,Still accelerating (+4.24% to +4.45% cycle-over-cycle) and pinned at the position cap — nothing to do but let it run.
+2026-07-21T14:00:00Z,hold,ETH-USD,approved,hold,,,,22.81,506.37,Strongest asset on the board at +5.32% and still making new session highs while capped — hold the full position.
+2026-07-21T14:00:00Z,hold,MSFT,approved,hold,,,,22.81,506.37,"Momentum re-ticked up (+3.72% to +3.85%) after last cycle's cooling, so the flat entry gets one more cycle before I rotate the capital."
