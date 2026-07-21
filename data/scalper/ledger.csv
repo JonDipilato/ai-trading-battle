@@ -57,3 +57,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T14:30:00Z,hold,BTC-USD,approved,hold,,,,72.81,507.95,"Only a marginal decel (+4.57% to +4.42%) after a long acceleration streak — trend intact and position is +2.4%, no exit signal yet."
 2026-07-21T14:30:00Z,hold,TSLA,approved,hold,,,,72.81,507.95,Mean-reversion snap keeps confirming for a fourth cycle (-4.15% to -3.74% to -3.41%) and the position is +2.24% — let the bounce run.
 2026-07-21T14:30:00Z,hold,MSFT,approved,hold,,,,72.81,507.95,"Momentum re-accelerated (+3.96% to +4.18%) into fresh session highs — strongest tape on the board, no reason to trim."
+2026-07-21T14:40:00Z,buy,ETH-USD,approved,ok,0.025861,1933.38,50.00,22.81,507.95,ETH re-accelerated to +5.02% after the 14:30 trim at +4.90% — redeploying cash into the strongest crypto momentum while staying under the 25% cap.
+2026-07-21T14:40:00Z,hold,BTC-USD,approved,hold,,,,22.81,507.95,"BTC ticked back up (+4.42% to +4.47%) after one marginal decel — uptrend intact, let it run."
+2026-07-21T14:40:00Z,hold,TSLA,approved,hold,,,,22.81,507.95,"Mean-reversion snap confirms a fifth straight cycle (-3.74% to -3.42%) and position sits at the 25% cap — ride it, exit on first stall."
+2026-07-21T14:40:00Z,hold,MSFT,approved,hold,,,,22.81,507.95,"Only a marginal decel (+4.18% to +4.06%) near session highs — no exit trigger yet, cut on a second consecutive fade."
