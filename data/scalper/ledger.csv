@@ -102,3 +102,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T16:20:00Z,hold,BTC-USD,approved,hold,,,,24.22,507.07,"BTC +4.12% day with +2.11% unrealized and pinned near the 25% cap — trend intact, nothing to add, too early to strip a working winner."
 2026-07-21T16:20:00Z,hold,ETH-USD,approved,hold,,,,24.22,507.07,ETH +4.66% is the strongest tape on the board and already at cap — let it run.
 2026-07-21T16:20:00Z,hold,AAPL,approved,hold,,,,24.22,507.07,"AAPL +4.55% vs QQQ -1.50% keeps the relative-strength thesis alive and the position is at cap, so no action."
+2026-07-21T16:30:00Z,sell,BTC-USD,approved,ok,-0.000601,66506.73,40.00,64.22,506.66,Bank part of the +2.07% BTC gain while it's pinned at the 25% cap to rebuild dry powder without abandoning the trend.
+2026-07-21T16:30:00Z,hold,ETH-USD,approved,hold,,,,64.22,506.66,ETH +4.46% is still the strongest tape on the board and at cap — no reason to interrupt the winner.
+2026-07-21T16:30:00Z,hold,AAPL,approved,hold,,,,64.22,506.66,AAPL +4.36% vs QQQ -1.50% keeps the relative-strength thesis intact at the position cap.
+2026-07-21T16:30:00Z,hold,TSLA,approved,hold,,,,64.22,506.66,"TSLA mean-reversion bounce is working (+0.10% from -3.83% entry) and the position sits near cap, so let the snap develop."
