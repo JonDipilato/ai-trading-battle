@@ -74,3 +74,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T15:10:00Z,hold,BTC-USD,approved,hold,,,,195.55,507.17,BTC is holding +4.48% and the position sits at the 25% cap with no room to add.
 2026-07-21T15:10:00Z,hold,ETH-USD,approved,hold,,,,195.55,507.17,"ETH remains the strongest trend on the board at +4.78% and is pinned near the position cap, so I let the winner run."
 2026-07-21T15:10:00Z,hold,AAPL,approved,hold,,,,195.55,507.17,"AAPL is only mildly decelerating (+3.90% to +3.72%) and just below entry — giving the fresh position one more cycle before judging, with the MSFT proceeds ready to add if it reaccelerates."
+2026-07-21T15:20:00Z,buy,AAPL,approved,ok,0.137465,327.36,45.00,150.55,507.21,AAPL reaccelerated from +3.72% to +3.97% while holding above my entry — adding ~9% of equity to a working momentum position with room under the 25% cap.
+2026-07-21T15:20:00Z,hold,BTC-USD,approved,hold,,,,150.55,507.21,"BTC steady at +4.40% and pinned at the 25% position cap — no room to add, no reason to sell."
+2026-07-21T15:20:00Z,hold,ETH-USD,approved,hold,,,,150.55,507.21,ETH remains the strongest trend on the board at +4.76% and is also at the position cap — ride it.
