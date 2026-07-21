@@ -98,3 +98,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T16:10:00Z,hold,ETH-USD,approved,hold,,,,69.22,507.32,ETH +4.81% remains the strongest tape and the position sits at the 25% cap with no room to add.
 2026-07-21T16:10:00Z,hold,BTC-USD,approved,hold,,,,69.22,507.32,BTC +4.20% trend intact and pinned near the position cap — let the winner run.
 2026-07-21T16:10:00Z,hold,AAPL,approved,hold,,,,69.22,507.32,"AAPL +4.55% vs QQQ -1.52% is the cleanest relative-strength hold on the book, already at cap."
+2026-07-21T16:20:00Z,buy,TSLA,approved,ok,0.118109,381.00,45.00,24.22,507.07,"TSLA -3.83% is still the most oversold name on a mildly red tape and the position is flat and well under cap, so I add to the mean-reversion snap while keeping ~$24 dry powder."
+2026-07-21T16:20:00Z,hold,BTC-USD,approved,hold,,,,24.22,507.07,"BTC +4.12% day with +2.11% unrealized and pinned near the 25% cap — trend intact, nothing to add, too early to strip a working winner."
+2026-07-21T16:20:00Z,hold,ETH-USD,approved,hold,,,,24.22,507.07,ETH +4.66% is the strongest tape on the board and already at cap — let it run.
+2026-07-21T16:20:00Z,hold,AAPL,approved,hold,,,,24.22,507.07,"AAPL +4.55% vs QQQ -1.50% keeps the relative-strength thesis alive and the position is at cap, so no action."
