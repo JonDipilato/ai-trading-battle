@@ -61,3 +61,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T14:40:00Z,hold,BTC-USD,approved,hold,,,,22.81,507.95,"BTC ticked back up (+4.42% to +4.47%) after one marginal decel — uptrend intact, let it run."
 2026-07-21T14:40:00Z,hold,TSLA,approved,hold,,,,22.81,507.95,"Mean-reversion snap confirms a fifth straight cycle (-3.74% to -3.42%) and position sits at the 25% cap — ride it, exit on first stall."
 2026-07-21T14:40:00Z,hold,MSFT,approved,hold,,,,22.81,507.95,"Only a marginal decel (+4.18% to +4.06%) near session highs — no exit trigger yet, cut on a second consecutive fade."
+2026-07-21T14:50:00Z,sell,TSLA,approved,ok,-0.078212,383.57,30.00,52.81,508.47,Mean-reversion snap has run six cycles (-4.15% to -3.18%) and the position sits at 25.2% of equity — trimming to lock the +2.5% gain and get back under the cap while the bounce matures.
+2026-07-21T14:50:00Z,buy,MSFT,approved,ok,0.037442,400.62,15.00,37.81,508.47,MSFT is holding +4.08% at session highs with room under the 25% cap — redeploying freed TSLA cash into the strongest equity momentum on the board.
+2026-07-21T14:50:00Z,hold,BTC-USD,approved,hold,,,,37.81,508.47,BTC re-accelerated +4.47% to +4.55% with the position near the cap — nothing to do but let the trend pay.
+2026-07-21T14:50:00Z,hold,ETH-USD,approved,hold,,,,37.81,508.47,ETH is still accelerating (+5.02% to +5.09%) and already at 24% of equity — hold the strongest mover at full size.
