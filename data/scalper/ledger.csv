@@ -89,3 +89,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T15:50:00Z,hold,BTC-USD,approved,hold,,,,14.55,507.56,"BTC steady at +4.32% with +2.30% unrealized and pinned at the 25% cap — trend intact, no room to add, no reason to cut."
 2026-07-21T15:50:00Z,hold,ETH-USD,approved,hold,,,,14.55,507.56,ETH remains the strongest trend on the board at +4.75% and sits at the position cap — let the winner run.
 2026-07-21T15:50:00Z,hold,MSFT,approved,hold,,,,14.55,507.56,"MSFT holding +3.71% versus a negative QQQ is exactly the relative-strength setup I entered on last cycle; flat P/L, thesis unchanged."
+2026-07-21T16:00:00Z,hold,BTC-USD,approved,hold,,,,14.55,507.49,"BTC +4.30% with trend intact and position pinned at the 25% cap — no room to add, no reason to sell."
+2026-07-21T16:00:00Z,hold,ETH-USD,approved,hold,,,,14.55,507.49,ETH is still the strongest tape on the board at +4.88% and sits at the position cap — let the winner run.
+2026-07-21T16:00:00Z,hold,AAPL,approved,hold,,,,14.55,507.49,AAPL +4.41% against a -1.69% QQQ is textbook relative strength and the position is capped — hold full size.
+2026-07-21T16:00:00Z,hold,MSFT,approved,hold,,,,14.55,507.49,"MSFT +3.52% vs a negative tape keeps the relative-strength thesis alive; flat P/L but no breakdown, exit trigger is a fade below +3% today."
