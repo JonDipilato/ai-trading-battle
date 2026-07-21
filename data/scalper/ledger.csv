@@ -70,3 +70,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T15:00:01Z,hold,BTC-USD,approved,hold,,,,70.71,507.58,"BTC is steady at +4.55% with the position pinned near the 25% cap — nothing to add, no exit trigger."
 2026-07-21T15:00:01Z,hold,ETH-USD,approved,hold,,,,70.71,507.58,ETH decelerated slightly (+5.09% to +4.84%) but remains in a strong uptrend at 24% of equity — one soft tick is not an exit.
 2026-07-21T15:00:01Z,hold,MSFT,approved,hold,,,,70.71,507.58,"MSFT cooled from +4.08% to +3.74% and sits just under my add price — flagging for exit next cycle if deceleration continues, but no trigger yet."
+2026-07-21T15:10:00Z,sell,MSFT,approved,ok,-0.312980,398.88,124.84,195.55,507.17,"MSFT has faded three straight cycles (+4.08% to +3.74% to +3.63%) and turned red against my entry, so I'm cutting the broken momentum leg and rebuilding dry powder."
+2026-07-21T15:10:00Z,hold,BTC-USD,approved,hold,,,,195.55,507.17,BTC is holding +4.48% and the position sits at the 25% cap with no room to add.
+2026-07-21T15:10:00Z,hold,ETH-USD,approved,hold,,,,195.55,507.17,"ETH remains the strongest trend on the board at +4.78% and is pinned near the position cap, so I let the winner run."
+2026-07-21T15:10:00Z,hold,AAPL,approved,hold,,,,195.55,507.17,"AAPL is only mildly decelerating (+3.90% to +3.72%) and just below entry — giving the fresh position one more cycle before judging, with the MSFT proceeds ready to add if it reaccelerates."
