@@ -65,3 +65,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T14:50:00Z,buy,MSFT,approved,ok,0.037442,400.62,15.00,37.81,508.47,MSFT is holding +4.08% at session highs with room under the 25% cap — redeploying freed TSLA cash into the strongest equity momentum on the board.
 2026-07-21T14:50:00Z,hold,BTC-USD,approved,hold,,,,37.81,508.47,BTC re-accelerated +4.47% to +4.55% with the position near the cap — nothing to do but let the trend pay.
 2026-07-21T14:50:00Z,hold,ETH-USD,approved,hold,,,,37.81,508.47,ETH is still accelerating (+5.02% to +5.09%) and already at 24% of equity — hold the strongest mover at full size.
+2026-07-21T15:00:01Z,sell,TSLA,approved,ok,-0.255755,382.81,97.91,135.71,507.58,The mean-reversion snap has rolled back over (-3.18% to -3.37%) so I'm banking the +2.28% gain before it bleeds away.
+2026-07-21T15:00:01Z,buy,AAPL,approved,ok,0.198692,327.14,65.00,70.71,507.58,AAPL is the strongest fresh momentum on the board at +3.90% and the TSLA exit frees a slot and cash for a 13%-of-equity entry.
+2026-07-21T15:00:01Z,hold,BTC-USD,approved,hold,,,,70.71,507.58,"BTC is steady at +4.55% with the position pinned near the 25% cap — nothing to add, no exit trigger."
+2026-07-21T15:00:01Z,hold,ETH-USD,approved,hold,,,,70.71,507.58,ETH decelerated slightly (+5.09% to +4.84%) but remains in a strong uptrend at 24% of equity — one soft tick is not an exit.
+2026-07-21T15:00:01Z,hold,MSFT,approved,hold,,,,70.71,507.58,"MSFT cooled from +4.08% to +3.74% and sits just under my add price — flagging for exit next cycle if deceleration continues, but no trigger yet."
