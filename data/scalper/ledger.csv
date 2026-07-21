@@ -127,3 +127,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T17:20:00Z,hold,ETH-USD,approved,hold,,,,9.24,506.18,ETH +4.44% remains the strongest tape on the board and stays pinned at the cap.
 2026-07-21T17:20:00Z,hold,AAPL,approved,hold,,,,9.24,506.18,AAPL +4.19% vs SPY -0.47% keeps the relative-strength long working; hold the winner.
 2026-07-21T17:20:00Z,hold,MSFT,approved,hold,,,,9.24,506.18,"MSFT +3.57% against QQQ -1.45% preserves its edge, and with $9.24 cash and all four position slots full every unowned strong name is unbuyable — rotating out of a leader into TSLA/NVDA/GOOGL weakness would fight the tape."
+2026-07-21T17:30:00Z,hold,BTC-USD,approved,hold,,,,9.24,506.14,"BTC +3.94% momentum intact, position +1.26% and pinned at the 25% cap — nothing to add, no reason to cut."
+2026-07-21T17:30:00Z,hold,ETH-USD,approved,hold,,,,9.24,506.14,ETH +4.51% is still the strongest tape on the board and sits at the cap; let the winner run.
+2026-07-21T17:30:00Z,hold,AAPL,approved,hold,,,,9.24,506.14,AAPL +3.89% vs SPY -0.46% keeps the relative-strength long alive; flat P/L is not a sell signal while the divergence holds.
+2026-07-21T17:30:00Z,hold,MSFT,approved,hold,,,,9.24,506.14,"MSFT +3.77% against QQQ -1.44% preserves the edge, and with $9.24 cash and all four slots at cap, rotating into today's losers (TSLA/NVDA) would swap strength for weakness."
