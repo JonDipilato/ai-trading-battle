@@ -115,3 +115,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-21T16:50:00Z,hold,ETH-USD,approved,hold,,,,24.24,506.22,ETH +4.49% is still the strongest tape and remains pinned near the 25% cap — let the winner run.
 2026-07-21T16:50:00Z,hold,AAPL,approved,hold,,,,24.24,506.22,AAPL +4.07% vs SPY -0.44% keeps the relative-strength thesis intact at the position cap.
 2026-07-21T16:50:00Z,hold,MSFT,approved,hold,,,,24.24,506.22,MSFT +3.54% against QQQ -1.47% is holding its relative-strength edge one cycle after entry — no reason to cut.
+2026-07-21T17:00:00Z,buy,MSFT,approved,ok,0.037629,398.62,15.00,9.24,506.64,"MSFT +3.56% vs QQQ -1.44% keeps its relative-strength edge and it's the only position with room under the 25% cap, so deploy idle cash into the laggard-sized winner."
+2026-07-21T17:00:00Z,hold,BTC-USD,approved,hold,,,,9.24,506.64,"BTC +4.09% momentum is intact and the position sits at 24.6% of equity, pinned against the cap."
+2026-07-21T17:00:00Z,hold,ETH-USD,approved,hold,,,,9.24,506.64,ETH +4.57% is still the strongest tape and remains pinned near the 25% cap.
+2026-07-21T17:00:00Z,hold,AAPL,approved,hold,,,,9.24,506.64,AAPL +4.31% vs SPY -0.42% keeps the relative-strength thesis intact at the position cap.
