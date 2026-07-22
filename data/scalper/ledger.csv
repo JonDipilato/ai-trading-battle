@@ -210,3 +210,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-22T13:50:00Z,buy,BTC-USD,approved,ok,0.000911,65858.09,60.00,220.94,503.38,"BTC has re-accelerated to +1.64% after the earlier fade I sold at +1.14%, and with ETH ripping +4.14% the crypto tape is the only green momentum on the board — small 12% re-entry."
 2026-07-22T13:50:00Z,hold,ETH-USD,approved,hold,,,,220.94,503.38,"ETH is the strongest name on the screen at +4.14% and my position is up +0.79% near the 25% cap, so I let the winner run."
 2026-07-22T13:50:00Z,hold,GOOGL,approved,hold,,,,220.94,503.38,GOOGL mean-reversion snap is intact — still washed out -6.03% vs QQQ -1.70% and holding above my basis.
+2026-07-22T14:00:00Z,sell,ETH-USD,approved,ok,-0.063123,1938.50,122.36,343.31,503.37,ETH is up +4.14% on the day and my position is green +0.79% — taking the profit at the top of the strongest move on the screen rather than round-tripping it.
+2026-07-22T14:00:00Z,buy,META,approved,ok,0.094788,632.99,60.00,283.31,503.37,"META is the most washed-out name at -7.09% versus SPY -0.82%, a stretched mean-reversion snap candidate for a fast bounce trade."
