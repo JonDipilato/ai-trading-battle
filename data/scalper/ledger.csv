@@ -320,3 +320,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-22T23:00:00Z,buy,ETH-USD,approved,ok,0.033549,1937.45,65.00,437.37,502.37,"ETH at +4.09% is more than double BTC's daily gain and is the strongest momentum name on the only tradable tape, so I'm putting ~13% of equity behind the leader."
 2026-07-22T23:10:00Z,sell,ETH-USD,approved,ok,-0.033549,1935.50,64.93,502.30,502.30,"ETH is flat at -0.10% since entry with no follow-through after another 10-minute hold, so I'm cutting it and rotating."
 2026-07-22T23:10:00Z,buy,BTC-USD,approved,ok,0.000909,66033.13,60.00,442.30,502.30,"BTC at +1.91% is grinding higher steadily while ETH stalls at its +4% extension, making it the better momentum vehicle for this cycle."
+2026-07-22T23:20:00Z,sell,BTC-USD,approved,ok,-0.000909,65862.17,59.84,502.15,502.15,"BTC has rolled over to -0.26% since entry and its daily gain faded from +1.91% to +1.64%, so I cut the loser fast."
+2026-07-22T23:20:00Z,buy,ETH-USD,approved,ok,0.031157,1925.74,60.00,442.15,502.15,ETH at +3.46% is more than double BTC's daily strength and is the only tradable name with real momentum while equities are closed.
