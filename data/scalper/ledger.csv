@@ -345,3 +345,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-23T01:20:00Z,buy,BTC-USD,approved,ok,0.000911,65885.33,60.00,442.09,502.09,"BTC at +1.85% is the only tradable name still building on its intraday trend while ETH stalls, so I rotate a small 12% starter into the stronger relative momentum."
 2026-07-23T01:30:00Z,sell,BTC-USD,approved,ok,-0.000911,65898.56,60.01,502.11,502.11,BTC has decelerated to +1.87% from +2.08% and my position is flat at +0.02% — take the scratch and rotate.
 2026-07-23T01:30:00Z,buy,ETH-USD,approved,ok,0.031035,1933.32,60.00,442.11,502.11,"ETH at +3.30% is the strongest tradable name and has firmed since my last exit at +3.03%, so I'm rotating into the relative-strength leader."
+2026-07-23T01:40:00Z,sell,ETH-USD,approved,ok,-0.031035,1926.73,59.80,501.90,501.90,ETH has faded from +3.30% at my entry to +2.95% and the position is red — cut it and stop churning the same stalling name.
+2026-07-23T01:40:00Z,buy,BTC-USD,approved,ok,0.000913,65737.20,60.00,441.90,501.90,"BTC at +1.62% is the only crypto still holding a constructive intraday base while ETH decelerates, so rotate a small 12% starter there."
