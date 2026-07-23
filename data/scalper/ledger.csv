@@ -359,3 +359,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-23T02:30:01Z,buy,ETH-USD,approved,ok,0.031192,1923.56,60.00,441.87,501.87,"ETH is the strongest tradable name at +2.78% and expanding, so take a ~12% equity position in the leader."
 2026-07-23T02:40:00Z,sell,ETH-USD,approved,ok,-0.031192,1924.66,60.03,501.90,501.90,"ETH is only +0.06% on entry and its intraday momentum has decayed from +2.78% at entry to +2.84% flat while BTC is accelerating, so take the tiny gain and rotate."
 2026-07-23T02:40:00Z,buy,BTC-USD,approved,ok,0.000913,65736.60,60.00,441.90,501.90,"BTC at +1.62% is firming off its earlier +1.57% while ETH stalls, so take a ~12% equity position in the name that is currently expanding."
+2026-07-23T02:50:01Z,sell,BTC-USD,approved,ok,-0.000913,65753.62,60.02,501.92,501.92,"BTC is only +0.03% on entry and its +1.64% intraday move is lagging ETH, which has accelerated from +2.78% to +2.85% — rotate out."
+2026-07-23T02:50:01Z,buy,ETH-USD,approved,ok,0.031170,1924.90,60.00,441.92,501.92,"ETH is the strongest tradable name at +2.85% and expanding to new intraday highs, so take a ~12% equity position in the leader."
