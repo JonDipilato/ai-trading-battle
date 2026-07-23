@@ -466,3 +466,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-23T11:50:01Z,buy,ETH-USD,approved,ok,0.031157,1925.76,60.00,441.87,501.87,ETH at +2.90% is the strongest live market and is pushing back above $1925 with better intraday velocity than BTC.
 2026-07-23T12:10:00Z,sell,ETH-USD,approved,ok,-0.031157,1922.87,59.91,501.78,501.78,"ETH is red on the entry at -0.15% and has stalled in a $3 band around $1923-1926 for three straight cycles, so I take the small loss and free the capital."
 2026-07-23T12:10:00Z,buy,BTC-USD,approved,ok,0.000917,65457.25,60.00,441.78,501.78,"BTC at +1.18% has held above $65400 and is the only other live market, so I rotate into it for a fresh momentum leg at ~12% of equity."
+2026-07-23T12:20:00Z,sell,BTC-USD,approved,ok,-0.000917,65387.01,59.94,501.71,501.71,"BTC is red on the entry at -0.11% and has drifted down through $65400 for two cycles, so I cut the loser and rotate."
+2026-07-23T12:20:00Z,buy,ETH-USD,approved,ok,0.031271,1918.71,60.00,441.71,501.71,"ETH at +2.52% is the strongest live market by a wide margin and holding above $1918, so I take a fresh momentum entry there."
