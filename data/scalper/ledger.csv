@@ -353,3 +353,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-23T02:00:00Z,buy,BTC-USD,approved,ok,0.000912,65799.01,60.00,441.93,501.93,"BTC at +1.71% is firming into the close of the crypto session while ETH stalls, so rotate a small 12% starter into the stronger relative-momentum name."
 2026-07-23T02:10:00Z,sell,BTC-USD,approved,ok,-0.000912,65785.72,59.99,501.91,501.91,BTC entry at 65799 is red and momentum has flattened at +1.69% while ETH accelerates to +2.93% — cut and rotate.
 2026-07-23T02:10:00Z,buy,ETH-USD,approved,ok,0.036338,1926.36,70.00,431.91,501.91,"ETH is the strongest tradable name at +2.93% and expanding, nearly 2x BTC's move — take a ~14% equity momentum entry."
+2026-07-23T02:20:00Z,sell,ETH-USD,approved,ok,-0.036338,1925.59,69.97,501.89,501.89,"ETH has faded from +2.93% at entry to +2.89% and the position is red, so cut it fast per the rules."
+2026-07-23T02:20:00Z,buy,BTC-USD,approved,ok,0.000913,65722.51,60.00,441.89,501.89,"BTC at +1.59% is the only other tradable name and is holding its intraday gain while ETH decays, so rotate a small 12% slice into it."
