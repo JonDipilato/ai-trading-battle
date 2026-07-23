@@ -510,3 +510,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-23T16:20:00Z,sell,ETH-USD,approved,ok,-0.031790,1884.60,59.91,500.75,500.75,ETH has stalled at -0.15% on basis with its lead shrinking to +0.70% — free the capital rather than bleed in a dead crypto tape.
 2026-07-23T16:20:00Z,buy,TSLA,approved,ok,0.184786,324.70,60.00,440.75,500.75,TSLA at -16.97% is the most extreme washed-out flush on the board and the same capitulation-snap setup that paid +1.41% one cycle ago.
 2026-07-23T16:20:00Z,buy,GOOGL,approved,ok,0.171500,320.70,55.00,385.75,500.75,"GOOGL at -9.52% is a deep mega-cap dislocation versus SPY's -1.62%, a high-probability mean-reversion snap into the close."
+2026-07-23T16:40:00Z,sell,TSLA,approved,ok,-0.184786,323.33,59.75,445.50,500.32,TSLA is red on basis and the -17.3% flush has not bounced across a full cycle — cut the loser fast and free capital.
+2026-07-23T16:40:00Z,sell,GOOGL,approved,ok,-0.171500,319.66,54.82,500.32,500.32,GOOGL is red on basis with the mega-cap dislocation still bleeding — cut it and rotate out of the falling knife.
+2026-07-23T16:40:00Z,buy,NVDA,approved,ok,0.285421,210.22,60.00,440.32,500.32,NVDA at +1.36% is the strongest equity on a broadly red tape — buy the clear relative-strength leader instead of catching falling knives.
