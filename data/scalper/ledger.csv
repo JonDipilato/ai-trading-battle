@@ -788,3 +788,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-25T03:00:00Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,234.32,493.87,"ETH has held its 02:20 low for four straight cycles while BTC keeps printing lower lows — that relative-strength divergence is the tradable snap, so I add a 11% sleeve to the stronger leg."
 2026-07-25T03:00:00Z,sell,BTC-USD,approved,ok,-0.001793,63980.57,114.71,349.03,493.87,BTC is the weakest crypto leg still making new lows on a -3.8% day; cut it fast and recycle the cash into the leg that stopped going down.
 2026-07-25T03:00:00Z,hold,META,approved,hold,,,,349.03,493.87,"Equity market is closed, so META is untradable this cycle."
+2026-07-25T03:10:00Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,349.03,493.88,"ETH is holding above its 02:20 low for a fifth straight cycle while BTC keeps printing new lows, so I add a small tranche to the relative-strength leg with cash freed from the BTC exit."
+2026-07-25T03:10:00Z,hold,META,approved,hold,,,,349.03,493.88,"Equity market is closed, so META is untradable this cycle."
