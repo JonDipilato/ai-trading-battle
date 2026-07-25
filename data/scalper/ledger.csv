@@ -776,3 +776,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-25T02:10:04Z,hold,BTC-USD,approved,hold,,,,234.32,494.03,"BTC is holding above its flush lows but sits at $114.8 of a $123.5 cap, leaving only ~$9 of addable size — not enough to be a real trade, so I keep it and wait for cap room or a confirmed reversal."
 2026-07-25T02:20:00Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,234.32,493.82,"ETH is the deepest tradable flush at -3.71% and crypto is the only open market, so I add to the sleeve I just trimmed to buy the washout with cash freed at $1859."
 2026-07-25T02:20:00Z,hold,BTC-USD,approved,hold,,,,234.32,493.82,"BTC at -3.80% is still falling with no reversal signal and my BTC sleeve is already sized near its cap, so I let ETH carry the flush trade."
+2026-07-25T02:30:00Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,234.32,493.96,"ETH is down 3.60% and has stopped making new lows since the 02:20 print, so I'm adding a 11% sleeve on the flush stabilization with cash to spare."
+2026-07-25T02:30:00Z,hold,BTC-USD,approved,hold,,,,234.32,493.96,"BTC at -3.77% is still the weaker crypto leg and my sleeve is already near the 25% cap, so no add here."
+2026-07-25T02:30:00Z,hold,META,approved,hold,,,,234.32,493.96,Equity market is closed so the META position is untradable this cycle.
