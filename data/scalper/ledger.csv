@@ -797,3 +797,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-25T03:40:00Z,hold,META,approved,hold,,,,433.90,493.89,"Equity market is closed, so META is untradable this cycle."
 2026-07-25T03:50:00Z,buy,ETH-USD,approved,ok,0.026947,1855.51,50.00,383.90,493.89,ETH is the only tradable leg with equities closed; taking a small 10% starter long into the -3.8% crypto flush with the intent to scalp any bounce and cut fast if BTC breaks lower.
 2026-07-25T04:00:00Z,sell,ETH-USD,approved,ok,-0.026947,1856.92,50.04,433.94,493.93,"Crypto is still bleeding (BTC -3.7%, ETH -3.7%) and this starter long is only +0.08% after a sixth failed bounce attempt — take the flat scratch rather than hold a falling knife into a closed-equity tape."
+2026-07-25T04:10:04Z,buy,ETH-USD,approved,ok,0.032273,1859.16,60.00,373.94,493.93,"ETH at $1859 is holding above the prior cycle's $1855 low while BTC keeps making new lows, so I'm taking a small 12% starter long on the relative-strength divergence with a tight leash."
+2026-07-25T04:10:04Z,hold,META,approved,hold,,,,373.94,493.93,"Equity market is closed, so META is untradable this cycle."
