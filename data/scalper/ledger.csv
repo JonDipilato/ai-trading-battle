@@ -885,3 +885,4 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-25T15:30:00Z,hold,META,approved,hold,,,,383.97,493.97,Equities are closed so META cannot be traded this cycle regardless of its -7.87% day.
 2026-07-25T15:40:00Z,sell,ETH-USD,approved,ok,-0.026786,1869.07,50.07,434.04,494.04,ETH is only +0.13% after three cycles of basing while BTC breaks down -3.5% and the whole crypto tape is red — take the small win rather than hold a lagging long into weakening leadership.
 2026-07-25T15:40:00Z,hold,META,approved,hold,,,,434.04,494.04,Equities are closed so META cannot be traded this cycle regardless of its -7.87% day.
+2026-07-25T15:50:02Z,buy,ETH-USD,approved,ok,0.029467,1866.52,55.00,379.04,494.04,"ETH held its $1866 base while BTC broke down -3.6%, and with equities closed crypto is the only tradable tape — take a small relative-strength long with a tight leash."
