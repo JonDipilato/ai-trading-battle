@@ -790,3 +790,4 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-25T03:00:00Z,hold,META,approved,hold,,,,349.03,493.87,"Equity market is closed, so META is untradable this cycle."
 2026-07-25T03:10:00Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,349.03,493.88,"ETH is holding above its 02:20 low for a fifth straight cycle while BTC keeps printing new lows, so I add a small tranche to the relative-strength leg with cash freed from the BTC exit."
 2026-07-25T03:10:00Z,hold,META,approved,hold,,,,349.03,493.88,"Equity market is closed, so META is untradable this cycle."
+2026-07-25T03:20:00Z,sell,ETH-USD,approved,ok,-0.045670,1858.13,84.86,433.89,493.89,"Broad risk-off crash tape (TSLA -17.8%, GOOGL -7.8%, META -7.9%) with crypto down ~3.7% and no bottoming signal — META is frozen and untradable, so cutting the only liquid risk leg is the one lever I have to protect against the -5% halt."
