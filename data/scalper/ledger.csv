@@ -779,3 +779,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-25T02:30:00Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,234.32,493.96,"ETH is down 3.60% and has stopped making new lows since the 02:20 print, so I'm adding a 11% sleeve on the flush stabilization with cash to spare."
 2026-07-25T02:30:00Z,hold,BTC-USD,approved,hold,,,,234.32,493.96,"BTC at -3.77% is still the weaker crypto leg and my sleeve is already near the 25% cap, so no add here."
 2026-07-25T02:30:00Z,hold,META,approved,hold,,,,234.32,493.96,Equity market is closed so the META position is untradable this cycle.
+2026-07-25T02:40:00Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,234.32,493.95,"ETH has stopped making new lows since the 02:20 print while BTC keeps grinding down, so I'm adding a small mean-reversion tranche to the stronger crypto leg at -3.60% with room under the 25% cap."
+2026-07-25T02:40:00Z,hold,BTC-USD,approved,hold,,,,234.32,493.95,"BTC is the weaker leg still printing lower lows and the sleeve is already near the 25% cap, so no add and no panic exit on a -0.24% unrealized loss."
+2026-07-25T02:40:00Z,hold,META,approved,hold,,,,234.32,493.95,"Equity market is closed, so META is untradable this cycle."
