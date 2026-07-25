@@ -958,3 +958,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-25T23:10:00Z,buy,BTC-USD,approved,ok,0.000855,64351.53,55.00,319.24,494.19,"BTC is the deepest flush on the board at -3.24% and is the only other tradable name with crypto open, so I take an 11%-of-equity mean-reversion starter here rather than sit flat."
 2026-07-25T23:10:00Z,hold,ETH-USD,approved,hold,,,,319.24,494.19,"ETH scalp is flat at -0.06% and still the relative-strength leg versus BTC, so I keep the 0.032011 stub working instead of churning it for a sixth time."
 2026-07-25T23:10:00Z,hold,META,approved,hold,,,,319.24,494.19,"META is closed and untradable this cycle, so the 0.100803 share stub stays untouched."
+2026-07-25T23:20:03Z,buy,ETH-USD,approved,ok,0.024034,1872.34,45.00,274.24,494.16,"ETH is down -2.91% and holding better than BTC's -3.26%, so I'm adding to the relative-strength leg on the flush while crypto is the only tradable venue."
+2026-07-25T23:20:03Z,hold,BTC-USD,approved,hold,,,,274.24,494.16,"BTC scalp is essentially flat at -0.02% and still bleeding on the day, so I let the existing stub work rather than doubling into the weaker of the two crypto names."
+2026-07-25T23:20:03Z,hold,META,approved,hold,,,,274.24,494.16,"META is closed and untradable this cycle, so the 0.100803 share stub stays untouched."
