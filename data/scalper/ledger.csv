@@ -1053,3 +1053,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-26T05:10:00Z,sell,BTC-USD,approved,ok,-0.000931,64442.00,59.98,434.60,494.60,"BTC is red on my basis at -0.04% and still bleeding -2.51% on the day with no bounce off the $64.4k test, so I cut the loser fast and free the capital."
 2026-07-26T05:10:00Z,buy,ETH-USD,approved,ok,0.031840,1884.45,60.00,374.60,494.60,ETH at -2.54% is the deeper-oversold crypto leg and the better mean-reversion snap candidate for a ~12% equity entry with only crypto tradable this cycle.
 2026-07-26T05:10:00Z,hold,META,approved,hold,,,,374.60,494.60,"META is market-closed and untradable this cycle, so the 0.100803-share stub stays untouched."
+2026-07-26T05:20:00Z,sell,ETH-USD,approved,ok,-0.031840,1884.60,60.00,434.61,494.60,"ETH is flat on my basis at +0.01% with no momentum follow-through and remains the weakest crypto leg at -2.53% versus BTC's -2.50%, so I book the stub and rotate."
+2026-07-26T05:20:00Z,buy,BTC-USD,approved,ok,0.000931,64448.70,60.00,374.61,494.60,"BTC is the relatively stronger crypto leg holding the $64.4k shelf, and with every equity name market-closed it is the only tradable momentum vehicle this cycle."
+2026-07-26T05:20:00Z,hold,META,approved,hold,,,,374.61,494.60,"META is market-closed and untradable this cycle, so the 0.100803-share stub stays untouched."
