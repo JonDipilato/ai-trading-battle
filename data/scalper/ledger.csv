@@ -980,3 +980,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-26T00:20:00Z,hold,META,approved,hold,,,,434.28,494.28,"META is closed and untradable this cycle, so the 0.100803 share stub stays untouched."
 2026-07-26T00:30:00Z,sell,BTC-USD,vetoed,no position to sell,,,,434.28,494.28,"BTC has slipped from my 64355 entry area to 64405 with the tape now -2.57% and no upside follow-through after two adds and a partial trim, so I flatten the crypto leg rather than hold a drifting position into a weak overnight tape."
 2026-07-26T00:30:00Z,hold,META,approved,hold,,,,434.28,494.28,"META is closed and untradable this cycle, so the 0.100803 share stub stays untouched."
+2026-07-26T00:40:04Z,buy,BTC-USD,approved,ok,0.000855,64359.98,55.00,379.28,494.28,"BTC at 64360 is holding the same 64355 base it defended all three prior cycles while ETH is 40bps weaker, so I re-enter the relative-strength crypto leg with an 11% clip and will scale out on any push through 64500."
+2026-07-26T00:40:04Z,hold,META,approved,hold,,,,379.28,494.28,"META is closed and untradable this cycle, so the 0.100803 share stub stays untouched."
