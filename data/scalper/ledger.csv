@@ -1024,3 +1024,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-26T03:30:00Z,buy,ETH-USD,approved,ok,0.025534,1879.81,48.00,281.42,494.53,"ETH is down -2.78% and is the deeper-oversold crypto leg, so I take a ~10% equity starter for a mean-reversion snap alongside my green BTC."
 2026-07-26T03:30:00Z,hold,BTC-USD,approved,hold,,,,281.42,494.53,"BTC is my only green position at +0.11% and already sized near my crypto risk limit, so I let it run rather than add at a worse price."
 2026-07-26T03:30:00Z,hold,META,approved,hold,,,,281.42,494.53,"META is closed and untradable this cycle, so the 0.100803 share stub stays untouched."
+2026-07-26T03:40:01Z,buy,ETH-USD,approved,ok,0.026571,1881.72,50.00,231.42,494.62,"ETH is the deepest-oversold tradable leg at -2.68% and my starter tranche is already green at +0.10%, so I add ~10% of equity to press the bounce while staying under the 25% cap (~$98 total)."
+2026-07-26T03:40:01Z,hold,BTC-USD,approved,hold,,,,231.42,494.62,"BTC is green at +0.15% but already my largest position near the crypto risk line, so I let it run rather than adding into a -2.39% tape."
+2026-07-26T03:40:01Z,hold,META,approved,hold,,,,231.42,494.62,"META is closed and untradable this cycle, so the 0.100803 share stub stays untouched."
