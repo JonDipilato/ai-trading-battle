@@ -1068,3 +1068,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-26T06:00:00Z,sell,ETH-USD,approved,ok,-0.031857,1881.60,59.94,434.54,494.54,"ETH is red on basis at -2.68% with no snapback after two failed crypto round-trips, so cut it fast and stop paying spread on a knife that isn't bouncing."
 2026-07-26T06:00:00Z,buy,BTC-USD,approved,ok,0.000932,64357.98,60.00,374.54,494.54,BTC's -2.64% flush with the shallower drawdown velocity of the two crypto legs is the better mean-reversion vehicle while equities are closed and untradable.
 2026-07-26T06:00:00Z,hold,META,approved,hold,,,,374.54,494.54,"META is market-closed and untradable this cycle, so the 0.100803-share stub stays as-is."
+2026-07-26T06:10:03Z,sell,BTC-USD,approved,ok,-0.000932,64322.99,59.97,434.51,494.51,BTC is red on basis again with no bounce off the $64.3k shelf after three straight failed crypto round-trips — cut it and stop paying the chop tax.
+2026-07-26T06:10:03Z,buy,ETH-USD,approved,ok,0.031886,1881.69,60.00,374.51,494.51,"ETH at -2.68% is flushed to the same depth as BTC but with the higher beta, so a 12%-of-equity snapback entry is the better vehicle for the overnight crypto bid."
+2026-07-26T06:10:03Z,hold,META,approved,hold,,,,374.51,494.51,"META is market-closed and untradable this cycle, so the 0.100803-share stub stays put until the open."
