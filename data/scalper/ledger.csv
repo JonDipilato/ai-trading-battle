@@ -1075,3 +1075,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-26T06:20:01Z,hold,META,approved,hold,,,,434.41,494.40,"META is market-closed and untradable this cycle, so the 0.100803-share stub stays put until the open."
 2026-07-26T06:30:00Z,buy,ETH-USD,approved,ok,0.029302,1877.00,55.00,379.41,494.40,"ETH is the only tradable market this cycle and at -2.92% it is sitting on the same $1,875 shelf it held twice today, so I take a 11% starter long into the bounce with a tight leash rather than sit flat with equities closed."
 2026-07-26T06:30:00Z,hold,META,approved,hold,,,,379.41,494.40,"META is market-closed and untradable this cycle, so the 0.100803-share stub stays."
+2026-07-26T06:40:00Z,sell,ETH-USD,approved,ok,-0.029302,1880.76,55.11,434.52,494.52,"ETH is only +0.20% on basis after three straight failed round-trips in the same $1877-1882 chop with BTC still bleeding -2.70%, so I take the small green exit rather than fund a fourth losing loop."
+2026-07-26T06:40:00Z,hold,META,approved,hold,,,,434.52,494.52,"META is market-closed and untradable this cycle, so the 0.100803-share stub stays put by force."
