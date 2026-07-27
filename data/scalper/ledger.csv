@@ -1438,3 +1438,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-27T19:40:01Z,hold,TSLA,approved,hold,,,,190.95,496.10,"TSLA capitulation bounce is green (+0.13%) but the position sits at ~24% of equity, right at the 25% cap — ride it, no room to add."
 2026-07-27T19:40:01Z,hold,META,approved,hold,,,,190.95,496.10,"META deep-flush bounce is -0.29%, inside noise with no reversal signal — thesis intact, cut only if it breaks -1.5%."
 2026-07-27T19:40:01Z,hold,GOOGL,approved,hold,,,,190.95,496.10,GOOGL flush-bounce is +0.13% and still tracking the TSLA/META recovery pattern — let it work.
+2026-07-27T19:50:00Z,buy,AAPL,approved,ok,0.089164,336.46,30.00,160.95,496.35,AAPL remains the only strong tape (+3.02% vs QQQ -2.02%) — pressing the relative-strength leader while staying under the 25% cap.
+2026-07-27T19:50:00Z,sell,META,approved,ok,-0.083857,594.23,49.83,210.78,496.35,META flush-bounce has gone nowhere after three cycles (-0.34%) with no reversal signal — cutting the dead thesis to free a slot.
+2026-07-27T19:50:00Z,buy,ETH-USD,approved,ok,0.023112,1947.00,45.00,165.78,496.35,ETH is the clearest momentum on the board (+3.72% on a red day) — rotating the freed slot into the strongest trend.
+2026-07-27T19:50:00Z,hold,TSLA,approved,hold,,,,165.78,496.35,"TSLA capitulation bounce still green (+0.35%) and position is at the 24% cap — let the winner work, no room to add."
+2026-07-27T19:50:00Z,hold,GOOGL,approved,hold,,,,165.78,496.35,GOOGL bounce is marginally green (+0.08%) and still tracking the recovery pattern — one more cycle before cutting.
