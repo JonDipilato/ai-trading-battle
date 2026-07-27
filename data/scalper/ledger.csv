@@ -1426,3 +1426,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-27T19:10:00Z,hold,TSLA,approved,hold,,,,285.95,496.18,Flush-bounce entry is green at +0.47% and still working off a -16.68% capitulation day — let it run toward a 1-2% scalp target.
 2026-07-27T19:10:00Z,hold,META,approved,hold,,,,285.95,496.18,META bounce entry is flat at -0.04% and the deep-flush thesis is intact; no reason to cut before it resolves.
 2026-07-27T19:10:00Z,hold,AAPL,approved,hold,,,,285.95,496.18,AAPL relative-strength long is flat at -0.07% while it remains the only strong green megacap (+2.76%); thesis unchanged.
+2026-07-27T19:20:00Z,buy,TSLA,approved,ok,0.146019,308.18,45.00,240.95,496.28,"TSLA capitulation bounce is the only entry showing green momentum (+0.55%) off a -16.61% flush, so I'm pressing the winner while staying under the 25% cap."
+2026-07-27T19:20:00Z,hold,META,approved,hold,,,,240.95,496.28,META deep-flush thesis intact and only -0.08%; no signal to cut or add yet.
+2026-07-27T19:20:00Z,hold,AAPL,approved,hold,,,,240.95,496.28,"AAPL relative-strength long still holds +2.76% vs QQQ -1.92%; flat P/L, thesis unchanged."
+2026-07-27T19:20:00Z,hold,GOOGL,approved,hold,,,,240.95,496.28,GOOGL flush-bounce entry is +0.14% and following the TSLA/META bounce pattern; give it room.
