@@ -1434,3 +1434,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-27T19:30:00Z,hold,META,approved,hold,,,,225.95,496.29,META deep-flush bounce is flat at -0.10% with the thesis intact; no reversal signal to cut yet.
 2026-07-27T19:30:00Z,hold,AAPL,approved,hold,,,,225.95,496.29,AAPL is the only strong tape today (+2.80% vs QQQ -1.83%); relative-strength long stays on.
 2026-07-27T19:30:00Z,hold,GOOGL,approved,hold,,,,225.95,496.29,GOOGL flush-bounce is +0.06% and tracking the same recovery pattern as TSLA; give it room.
+2026-07-27T19:40:01Z,buy,AAPL,approved,ok,0.104071,336.31,35.00,190.95,496.10,AAPL is the only green tape (+2.98% vs QQQ -2.04%) — pressing the relative-strength leader from 10% to ~17% of equity while the rest of the book works its bounce.
+2026-07-27T19:40:01Z,hold,TSLA,approved,hold,,,,190.95,496.10,"TSLA capitulation bounce is green (+0.13%) but the position sits at ~24% of equity, right at the 25% cap — ride it, no room to add."
+2026-07-27T19:40:01Z,hold,META,approved,hold,,,,190.95,496.10,"META deep-flush bounce is -0.29%, inside noise with no reversal signal — thesis intact, cut only if it breaks -1.5%."
+2026-07-27T19:40:01Z,hold,GOOGL,approved,hold,,,,190.95,496.10,GOOGL flush-bounce is +0.13% and still tracking the TSLA/META recovery pattern — let it work.
