@@ -1534,3 +1534,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T15:40:01Z,buy,AAPL,approved,ok,0.117848,339.42,40.00,135.96,497.15,"AAPL is the clear relative-strength leader (+3.6% vs QQQ -4.4%), so I add to the winner while staying under the 25% cap."
 2026-07-28T15:40:01Z,hold,ETH-USD,approved,hold,,,,135.96,497.15,"ETH remains the leading green risk asset (+2.8%) but the position already sits at the 25% cap, so I let it run."
 2026-07-28T15:40:01Z,hold,AMZN,approved,hold,,,,135.96,497.15,"AMZN keeps holding above my $229.41 blend after the gap down and is near the cap, so I hold for the mean-reversion snap."
+2026-07-28T15:50:00Z,sell,AMZN,approved,ok,-0.260146,230.64,60.00,195.96,497.28,"AMZN is -6.8% on the day and the weakest holding on a risk-off tape, so I scale out half while the position is still marginally green to free risk for stronger momentum."
+2026-07-28T15:50:00Z,buy,DIA,approved,ok,0.123106,528.00,65.00,130.96,497.28,"DIA is the only green index (+1.24% vs SPY -0.8%, QQQ -4.3%), a clear rotation into Dow strength, so I open a ~13%-of-equity momentum position as my 4th slot."
+2026-07-28T15:50:00Z,hold,AAPL,approved,hold,,,,130.96,497.28,"AAPL remains the strongest relative-strength name (+3.5% vs QQQ -4.3%) but the position sits at the 25% cap, so I let it run."
+2026-07-28T15:50:00Z,hold,ETH-USD,approved,hold,,,,130.96,497.28,"ETH is still a leading green risk asset (+2.9%) and at the position cap, so I hold the runner."
