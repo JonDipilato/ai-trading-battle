@@ -1501,3 +1501,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T14:20:00Z,buy,TSLA,approved,ok,0.149321,301.37,45.00,161.25,493.54,TSLA -20.5% is a capitulation-scale flush and the best mean-reversion snap candidate on the tape — small 9%-of-equity bounce scalp with a fast cut if it makes new lows.
 2026-07-28T14:20:00Z,hold,ETH-USD,approved,hold,,,,161.25,493.54,"ETH entry is one cycle old and only -0.35% while still the relative-strength asset on a red tape — thesis intact, giving it another cycle."
 2026-07-28T14:20:00Z,hold,AAPL,approved,hold,,,,161.25,493.54,"AAPL remains the strongest momentum name at +2.9% vs -1.6% SPY but the position sits at the 25% cap, so I ride it rather than add."
+2026-07-28T14:30:00Z,sell,DIA,approved,ok,-0.218945,525.54,115.06,276.32,494.19,DIA is a low-beta drag with no scalp edge at +0.06% — freeing the slot and cash for the working momentum trades.
+2026-07-28T14:30:00Z,buy,TSLA,approved,ok,0.181710,302.68,55.00,221.32,494.19,"TSLA capitulation bounce is confirming (+0.44% off the -20% flush low), so I'm scaling the winner while staying under the 25% cap."
+2026-07-28T14:30:00Z,buy,ETH-USD,approved,ok,0.021336,1874.75,40.00,181.32,494.19,ETH remains the only green risk asset (+0.78%) on a deeply red tape with BTC down — adding to relative strength.
+2026-07-28T14:30:00Z,hold,AAPL,approved,hold,,,,181.32,494.19,"AAPL is the strongest name on the board (+3.13% vs SPY -1.41%) but the position is already at the 25% cap, so I ride it."
