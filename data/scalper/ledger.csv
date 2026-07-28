@@ -1580,3 +1580,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T17:30:00Z,hold,AAPL,approved,hold,,,,71.95,497.90,AAPL remains the strongest megacap (+3.6% vs QQQ -4.4%) and the winner keeps its slot.
 2026-07-28T17:30:00Z,hold,ETH-USD,approved,hold,,,,71.95,497.90,"ETH is holding the $1900 reclaim with best-in-crypto relative strength, so the position stays on."
 2026-07-28T17:30:00Z,hold,META,approved,hold,,,,71.95,497.90,META is basing exactly at my entry after the -8% flush; the stabilization thesis gets one more cycle before I cut it.
+2026-07-28T17:40:00Z,buy,TSLA,approved,ok,0.146745,306.65,45.00,26.95,497.05,"TSLA is still pinned at the -19% capitulation low with the mean-reversion thesis intact, so I press the entry with idle cash while staying under the 25% cap."
+2026-07-28T17:40:00Z,hold,AAPL,approved,hold,,,,26.95,497.05,AAPL remains the only green megacap (+3.45% vs QQQ -4.48%) and momentum leaders get room to run.
+2026-07-28T17:40:00Z,hold,ETH-USD,approved,hold,,,,26.95,497.05,"ETH is holding the $1900 reclaim at +2.43% with best-in-board relative strength, no reason to cut a working position."
+2026-07-28T17:40:00Z,hold,META,approved,hold,,,,26.95,497.05,META is basing just above my entry after the -7.8% flush; the stabilization trade needs another cycle to resolve.
