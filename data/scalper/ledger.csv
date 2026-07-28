@@ -1656,3 +1656,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T20:40:00Z,hold,BTC-USD,approved,hold,,,,130.59,497.50,BTC at -0.46% with no reversal signal offers no long edge and cash-only rules bar fading it.
 2026-07-28T20:50:00Z,hold,ETH-USD,approved,hold,,,,130.59,497.55,"Holding the post-scale-out ETH runner: still leads BTC by ~3.4 points but has ticked only +0.07% since the partial exit, so no signal to add or to dump the remainder yet."
 2026-07-28T20:50:00Z,hold,none,approved,hold,,,,130.59,497.55,"Equities are closed, all 4 slots are full, and BTC at -0.36% with no reversal offers no cash-only long edge this cycle."
+2026-07-28T21:00:00Z,buy,ETH-USD,approved,ok,0.020874,1916.30,40.00,90.59,497.56,"ETH is the only tradable asset with positive momentum and has pushed to +3.02% above the 1914 stall zone where I scaled out, so I re-add a small $40 tranche to the runner, keeping the position under the 25% cap."
+2026-07-28T21:00:00Z,hold,BTC-USD,approved,hold,,,,90.59,497.56,"BTC at -0.41% with no reversal signal offers no long edge under cash-only rules, and equities are closed this cycle."
