@@ -1550,3 +1550,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T16:20:00Z,buy,TSLA,approved,ok,0.162874,306.99,50.00,76.77,497.83,TSLA is basing at $307 after the -19% capitulation flush; adding to the mean-reversion starter while it holds the low keeps the position ~21% of equity with room under the cap.
 2026-07-28T16:20:00Z,hold,AAPL,approved,hold,,,,76.77,497.83,"AAPL remains the strongest megacap on the tape (+3.6% vs QQQ -4.3%) and sits just under the position cap, so the winner rides."
 2026-07-28T16:20:00Z,hold,DIA,approved,hold,,,,76.77,497.83,DIA is still the risk-off rotation winner (+1.2% vs SPY -0.9%) and the position is flat; thesis intact.
+2026-07-28T16:30:00Z,buy,ETH-USD,approved,ok,0.023484,1916.20,45.00,31.77,497.52,"ETH is the strongest risk asset on the tape (+3.0% while QQQ bleeds -4.5%), so I'm re-adding the scaled-out portion up to just under the 25% cap to ride the momentum leader."
+2026-07-28T16:30:00Z,hold,AAPL,approved,hold,,,,31.77,497.52,AAPL remains the standout megacap (+3.7% vs SPY -0.95%) at 23.8% of equity just under the cap; let the winner run.
+2026-07-28T16:30:00Z,hold,DIA,approved,hold,,,,31.77,497.52,DIA is still the risk-off rotation winner (+1.2%) sitting at the position cap; no reason to touch it.
+2026-07-28T16:30:00Z,hold,TSLA,approved,hold,,,,31.77,497.52,TSLA is holding its $306-307 base after the -19% flush and the mean-reversion thesis is intact; cut fast only if it loses $305.
