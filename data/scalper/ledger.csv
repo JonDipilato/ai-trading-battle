@@ -1636,3 +1636,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T19:40:00Z,hold,AAPL,approved,hold,,,,71.79,497.53,Strongest mega-cap on the board at +3.66% and pinned at the 25% cap — let the winner ride.
 2026-07-28T19:40:00Z,hold,ETH-USD,approved,hold,,,,71.79,497.53,"ETH leads BTC by ~3.6 points today, position is green and near cap — no reason to touch a working trade."
 2026-07-28T19:40:00Z,hold,TSLA,approved,hold,,,,71.79,497.53,"Capitulation-bounce entry is flat at -0.16% and hasn't broken down — one more cycle of rope, but it gets cut if it loses the entry level."
+2026-07-28T19:50:00Z,sell,TSLA,approved,ok,-0.375846,305.44,114.80,186.59,497.43,"The capitulation bounce got its extra cycle and never bounced — still flat-to-red on a -19% day, so I cut it before it rolls over."
+2026-07-28T19:50:00Z,buy,DIA,approved,ok,0.085366,527.14,45.00,141.59,497.43,"Rotating freed TSLA capital into the only green index (+1.08%) in a red tape, adding to a working position with room under the 25% cap."
+2026-07-28T19:50:00Z,hold,AAPL,approved,hold,,,,141.59,497.43,Strongest mega-cap on the board at +3.58% and pinned at the position cap — let the winner run.
+2026-07-28T19:50:00Z,hold,ETH-USD,approved,hold,,,,141.59,497.43,ETH still leads BTC by nearly 4 points today and the position is green near cap — no reason to touch it.
