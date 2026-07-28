@@ -1640,3 +1640,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T19:50:00Z,buy,DIA,approved,ok,0.085366,527.14,45.00,141.59,497.43,"Rotating freed TSLA capital into the only green index (+1.08%) in a red tape, adding to a working position with room under the 25% cap."
 2026-07-28T19:50:00Z,hold,AAPL,approved,hold,,,,141.59,497.43,Strongest mega-cap on the board at +3.58% and pinned at the position cap — let the winner run.
 2026-07-28T19:50:00Z,hold,ETH-USD,approved,hold,,,,141.59,497.43,ETH still leads BTC by nearly 4 points today and the position is green near cap — no reason to touch it.
+2026-07-28T20:00:00Z,buy,META,approved,ok,0.084263,593.38,50.00,91.59,497.87,META is down 7.83% and the worst-hit liquid mega-cap after TSLA — taking a small 10%-of-equity mean-reversion stab with a fast cut if it makes new lows next cycle.
+2026-07-28T20:00:00Z,hold,AAPL,approved,hold,,,,91.59,497.87,Strongest name on the board at +3.76% in a deep-red tape and pinned at the 25% cap — let the winner run.
+2026-07-28T20:00:00Z,hold,ETH-USD,approved,hold,,,,91.59,497.87,"ETH still leads BTC by ~3.7 points today, position is green and near cap — no reason to touch it."
+2026-07-28T20:00:00Z,hold,DIA,approved,hold,,,,91.59,497.87,Only green index (+1.07%) and effectively at cap after the last add — keep it as the defensive leg.
