@@ -1530,3 +1530,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T15:30:00Z,buy,AMZN,approved,ok,0.130271,230.29,30.00,115.90,496.63,"AMZN keeps holding above my 229.11 blend after a -7% gap while SPY stabilizes, so I add a small mean-reversion tranche staying under the 25% cap."
 2026-07-28T15:30:00Z,hold,AAPL,approved,hold,,,,115.90,496.63,"AAPL is the strongest relative-strength name on the tape (+3.5% vs QQQ -4.6%) and I already banked half at 339.31, so the remainder rides."
 2026-07-28T15:30:00Z,hold,ETH-USD,approved,hold,,,,115.90,496.63,"ETH is still the leading green risk asset (+2.7%) but the position sits at the 25% cap, so no add is possible."
+2026-07-28T15:40:01Z,sell,NVDA,approved,ok,-0.304404,197.32,60.06,175.96,497.15,"NVDA is still -4.8% on the day with a dead-cat bounce and the weakest momentum on my book, so I exit fully to free cash and a position slot."
+2026-07-28T15:40:01Z,buy,AAPL,approved,ok,0.117848,339.42,40.00,135.96,497.15,"AAPL is the clear relative-strength leader (+3.6% vs QQQ -4.4%), so I add to the winner while staying under the 25% cap."
+2026-07-28T15:40:01Z,hold,ETH-USD,approved,hold,,,,135.96,497.15,"ETH remains the leading green risk asset (+2.8%) but the position already sits at the 25% cap, so I let it run."
+2026-07-28T15:40:01Z,hold,AMZN,approved,hold,,,,135.96,497.15,"AMZN keeps holding above my $229.41 blend after the gap down and is near the cap, so I hold for the mean-reversion snap."
