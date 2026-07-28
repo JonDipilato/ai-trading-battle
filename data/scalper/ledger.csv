@@ -1622,3 +1622,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T19:10:00Z,hold,AAPL,approved,hold,,,,77.12,497.60,"Strongest stock on the board (+3.55%) and pinned at the 25% position cap, so I let the winner run."
 2026-07-28T19:10:00Z,hold,ETH-USD,approved,hold,,,,77.12,497.60,ETH keeps outperforming BTC (+2.74% vs -0.62%) and the position is green near the cap with no exit signal.
 2026-07-28T19:10:00Z,hold,DIA,approved,hold,,,,77.12,497.60,Still the only green index (+1.12%) and the relative-strength thesis is intact just below the cap.
+2026-07-28T19:20:00Z,buy,TSLA,approved,ok,0.179536,306.35,55.00,22.12,497.76,"The -19% capitulation bounce is confirming (+0.23% off my entry), so I add to the mean-reversion snap while staying under the 25% cap."
+2026-07-28T19:20:00Z,hold,AAPL,approved,hold,,,,22.12,497.76,"Strongest name on the board (+3.53%) and pinned at the position cap, so I let the winner run."
+2026-07-28T19:20:00Z,hold,ETH-USD,approved,hold,,,,22.12,497.76,"ETH still leads BTC by ~3.4 points today and the position is green, so momentum thesis stays intact."
+2026-07-28T19:20:00Z,hold,DIA,approved,hold,,,,22.12,497.76,Only green index (+1.14%) in a red tape; relative strength intact and it's my defensive ballast.
