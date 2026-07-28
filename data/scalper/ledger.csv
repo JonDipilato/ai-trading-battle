@@ -1604,3 +1604,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T18:30:00Z,hold,AAPL,approved,hold,,,,26.56,497.41,"Still the strongest name on the board (+3.71% vs SPY -1.03%) and sitting just under the 25% cap, so I let the momentum leader run rather than trim a working position."
 2026-07-28T18:30:00Z,hold,ETH-USD,approved,hold,,,,26.56,497.41,Best-in-crypto relative strength (+2.52% while BTC is -0.74%) with the position green; no reason to cut a leader near the cap.
 2026-07-28T18:30:00Z,hold,META,approved,hold,,,,26.56,497.41,Green above my $592.60 basing entry after the -7.7% flush; the stabilization thesis is intact and I exit fast if it loses $590.
+2026-07-28T18:40:00Z,hold,AAPL,approved,hold,,,,26.56,496.84,"Strongest name on the board (+3.38% vs SPY -1.00%), green on my basis, and sitting right at the 25% cap so I let the winner run."
+2026-07-28T18:40:00Z,hold,ETH-USD,approved,hold,,,,26.56,496.84,Best-in-crypto relative strength persists (+2.62% while BTC is -0.72%) and the position is +0.52% and trending — no reason to cut a working momentum leg this early.
+2026-07-28T18:40:00Z,hold,META,approved,hold,,,,26.56,496.84,Holding green above the $592.60 basing entry after the -7.9% flush; stabilization thesis intact and the mean-reversion snap hasn't paid yet.
+2026-07-28T18:40:00Z,hold,AMZN,approved,hold,,,,26.56,496.84,"The 18:30 add is green and the -6.6% flush is still holding its lows; with only $26 cash and 4/4 slots full, all theses intact means no rotation edge this cycle."
