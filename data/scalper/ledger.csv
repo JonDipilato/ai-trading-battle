@@ -1613,3 +1613,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T18:50:04Z,hold,AAPL,approved,hold,,,,66.78,497.38,"Strongest single name on the board (+3.34%) and sitting at the 25% position cap, so I ride it — no add possible, no reason to trim a leader."
 2026-07-28T18:50:04Z,hold,ETH-USD,approved,hold,,,,66.78,497.38,"Best-in-crypto relative strength persists (+2.76% vs BTC -0.61%) and the position is green — near the cap, so I let the winner run."
 2026-07-28T18:50:04Z,hold,META,approved,hold,,,,66.78,497.38,"Still green above the $592.60 basing entry after the -7.7% flush; stabilization thesis intact, cut only if it loses my basis."
+2026-07-28T19:00:00Z,buy,DIA,approved,ok,0.085318,527.44,45.00,21.78,497.52,"DIA remains the only green index (+1.14% vs SPY -0.90%, QQQ -4.53%) so I'm adding to the relative-strength leader while staying under the 25% cap."
+2026-07-28T19:00:00Z,hold,AAPL,approved,hold,,,,21.78,497.52,"Strongest name on the board (+3.55%) and pinned at the position cap, so I let the winner run."
+2026-07-28T19:00:00Z,hold,ETH-USD,approved,hold,,,,21.78,497.52,"ETH keeps outperforming BTC (+2.65% vs -0.67%) and the position is green near the cap, so the crypto-strength trade stays on."
+2026-07-28T19:00:00Z,hold,META,approved,hold,,,,21.78,497.52,Still green above the $592.60 flush-bounce entry; I give the stabilization one more cycle but will cut if it loses my basis.
