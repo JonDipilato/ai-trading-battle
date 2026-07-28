@@ -1517,3 +1517,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T15:00:00Z,hold,META,approved,hold,,,,81.27,494.03,"META has stalled at -8.44% and my blended entry is only -0.32%, so I give the bounce one more cycle but will cut on a break below $585 rather than average down a third time."
 2026-07-28T15:00:00Z,hold,AAPL,approved,hold,,,,81.27,494.03,"AAPL is still the strongest name on the board (+2.83% vs SPY -1.29%) and the position sits at the 25% cap, so there is nothing to do but let the winner run."
 2026-07-28T15:00:00Z,hold,ETH-USD,approved,hold,,,,81.27,494.03,"ETH remains the only green risk asset (+1.42%) and the position is already at the cap, so I hold the trend."
+2026-07-28T15:10:03Z,sell,META,approved,ok,-0.135271,588.70,79.63,160.90,494.87,"META broke to new session lows (-8.56% from -8.44%), the bounce thesis failed, so I cut the loser and free the position slot."
+2026-07-28T15:10:03Z,buy,NVDA,approved,ok,0.305157,196.62,60.00,100.90,494.87,"NVDA at -5.15% is stretched versus SPY -1.20% and sitting near round-number support at $196, so I take a small 12%-of-equity mean-reversion scalp with a fast cut if it loses $195."
+2026-07-28T15:10:03Z,hold,AAPL,approved,hold,,,,100.90,494.87,AAPL is still the strongest tape on the board (+3.41% vs SPY -1.20%) and the position is already at the 25% cap.
+2026-07-28T15:10:03Z,hold,ETH-USD,approved,hold,,,,100.90,494.87,"ETH remains the only green risk asset (+1.56%) and the position is effectively at the 25% cap, so I let the winner run."
+2026-07-28T15:10:03Z,hold,AMZN,approved,hold,,,,100.90,494.87,AMZN is holding above my $229.11 blend while the tape stabilizes; no add with the position slot budget committed to the NVDA scalp.
