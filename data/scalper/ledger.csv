@@ -1562,3 +1562,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T16:50:00Z,hold,AAPL,approved,hold,,,,18.77,497.71,"AAPL remains the strongest megacap (+3.5% vs QQQ -4.4%) and sits at the position cap with the trade working, so I let it run."
 2026-07-28T16:50:00Z,hold,DIA,approved,hold,,,,18.77,497.71,DIA is still the risk-off rotation winner (+1.2% vs SPY -0.9%) at the cap and there's no reversal signal to sell into.
 2026-07-28T16:50:00Z,hold,TSLA,approved,hold,,,,18.77,497.71,"TSLA is holding the $306-307 base with higher lows after the -19% flush, so the mean-reversion thesis stays on with a cut planned if $306 breaks."
+2026-07-28T17:00:00Z,sell,TSLA,approved,ok,-0.146284,307.62,45.00,63.77,498.37,"TSLA's bounce off the -19% flush has stalled under $308, so I'm scaling a third out near flat to de-risk the dead-cat scenario and rebuild cash for the next setup."
+2026-07-28T17:00:00Z,hold,AAPL,approved,hold,,,,63.77,498.37,"AAPL is still the strongest megacap on the tape (+3.7% vs QQQ -4.3%) and sits at the position cap, so I let the winner run."
+2026-07-28T17:00:00Z,hold,ETH-USD,approved,hold,,,,63.77,498.37,"ETH is holding above the $1920 reclaim with the best relative strength in crypto (+3.4% vs BTC -0.2%), so the momentum leg stays on."
+2026-07-28T17:00:00Z,hold,DIA,approved,hold,,,,63.77,498.37,DIA remains the risk-off rotation winner (+1.3% vs SPY -0.8%) at the cap and the rotation is still intact.
