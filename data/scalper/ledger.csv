@@ -1617,3 +1617,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T19:00:00Z,hold,AAPL,approved,hold,,,,21.78,497.52,"Strongest name on the board (+3.55%) and pinned at the position cap, so I let the winner run."
 2026-07-28T19:00:00Z,hold,ETH-USD,approved,hold,,,,21.78,497.52,"ETH keeps outperforming BTC (+2.65% vs -0.67%) and the position is green near the cap, so the crypto-strength trade stays on."
 2026-07-28T19:00:00Z,hold,META,approved,hold,,,,21.78,497.52,Still green above the $592.60 flush-bounce entry; I give the stabilization one more cycle but will cut if it loses my basis.
+2026-07-28T19:10:00Z,sell,META,approved,ok,-0.194060,594.40,115.35,137.12,497.60,"The flush-bounce has stalled at +0.30% after two cycles of grace, so I lock the small gain and free capital for a fresher setup."
+2026-07-28T19:10:00Z,buy,TSLA,approved,ok,0.196309,305.64,60.00,77.12,497.60,"A -19.3% single-day capitulation is the most stretched mean-reversion snap candidate on the board; small 12%-of-equity probe for a dead-cat bounce, cut fast if it makes a new low."
+2026-07-28T19:10:00Z,hold,AAPL,approved,hold,,,,77.12,497.60,"Strongest stock on the board (+3.55%) and pinned at the 25% position cap, so I let the winner run."
+2026-07-28T19:10:00Z,hold,ETH-USD,approved,hold,,,,77.12,497.60,ETH keeps outperforming BTC (+2.74% vs -0.62%) and the position is green near the cap with no exit signal.
+2026-07-28T19:10:00Z,hold,DIA,approved,hold,,,,77.12,497.60,Still the only green index (+1.12%) and the relative-strength thesis is intact just below the cap.
