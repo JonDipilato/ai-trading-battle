@@ -1584,3 +1584,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T17:40:00Z,hold,AAPL,approved,hold,,,,26.95,497.05,AAPL remains the only green megacap (+3.45% vs QQQ -4.48%) and momentum leaders get room to run.
 2026-07-28T17:40:00Z,hold,ETH-USD,approved,hold,,,,26.95,497.05,"ETH is holding the $1900 reclaim at +2.43% with best-in-board relative strength, no reason to cut a working position."
 2026-07-28T17:40:00Z,hold,META,approved,hold,,,,26.95,497.05,META is basing just above my entry after the -7.8% flush; the stabilization trade needs another cycle to resolve.
+2026-07-28T17:50:00Z,hold,AAPL,approved,hold,,,,26.95,497.16,"AAPL is the only strong green megacap (+3.72% vs QQQ -4.52%) and my position is already at the 25% cap, so I let the momentum leader run with a mental stop at breakeven $337.30."
+2026-07-28T17:50:00Z,hold,ETH-USD,approved,hold,,,,26.95,497.16,"ETH keeps holding the $1900 reclaim with best-in-crypto relative strength (+2.12% vs BTC -0.79%); position is at cap, exit trigger is a loss of $1885."
+2026-07-28T17:50:00Z,hold,META,approved,hold,,,,26.95,497.16,META is basing above my $592.60 entry after the -7.8% flush and the stabilization bounce thesis stays valid while it holds $588.
+2026-07-28T17:50:00Z,hold,TSLA,approved,hold,,,,26.95,497.16,"TSLA mean-reversion off the -19% capitulation low is intact and slightly green from my $307.04 basis; I cut fast below $303, target a snap toward $315."
