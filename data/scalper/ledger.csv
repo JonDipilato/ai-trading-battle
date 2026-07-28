@@ -1648,3 +1648,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T20:10:00Z,hold,AAPL,approved,hold,,,,85.59,497.82,Strongest name on the board at +3.77% but market closed — untouchable this cycle.
 2026-07-28T20:10:00Z,hold,DIA,approved,hold,,,,85.59,497.82,"Only green index, market closed — nothing to do until the next session."
 2026-07-28T20:10:00Z,hold,META,approved,hold,,,,85.59,497.82,Fresh mean-reversion entry at -7.83% is flat and market closed — thesis needs the next session to play out.
+2026-07-28T20:20:00Z,hold,ETH-USD,approved,hold,,,,85.59,497.84,"ETH still leads BTC by ~3.5 points with intact momentum, position is green and pinned at the 25% cap with only $0.53 of room, so riding it beats trimming a working trade."
+2026-07-28T20:20:00Z,hold,none,approved,hold,,,,85.59,497.84,"Equities are closed, all 4 position slots are full, and BTC at -0.30% offers no momentum worth rotating into — no tradable edge this cycle."
