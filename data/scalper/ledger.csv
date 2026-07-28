@@ -1522,3 +1522,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T15:10:03Z,hold,AAPL,approved,hold,,,,100.90,494.87,AAPL is still the strongest tape on the board (+3.41% vs SPY -1.20%) and the position is already at the 25% cap.
 2026-07-28T15:10:03Z,hold,ETH-USD,approved,hold,,,,100.90,494.87,"ETH remains the only green risk asset (+1.56%) and the position is effectively at the 25% cap, so I let the winner run."
 2026-07-28T15:10:03Z,hold,AMZN,approved,hold,,,,100.90,494.87,AMZN is holding above my $229.11 blend while the tape stabilizes; no add with the position slot budget committed to the NVDA scalp.
+2026-07-28T15:20:02Z,sell,AAPL,approved,ok,-0.132622,339.31,45.00,145.90,495.51,"AAPL is +3.5% and stretched against a broadly risk-off tape (QQQ -4.7%), so I lock a third of the position into strength while keeping core exposure at ~16% of equity."
+2026-07-28T15:20:02Z,buy,NVDA,approved,ok,0.253402,197.31,50.00,95.90,495.51,"NVDA bounce off the $196 round-number entry is working (+0.35% since fill) while still -4.8% on the day versus SPY -1.0%, so I press the mean-reversion snap to ~22% of equity, still under the cap."
+2026-07-28T15:20:02Z,hold,ETH-USD,approved,hold,,,,95.90,495.51,"ETH is the only green risk asset (+1.46%) and the position sits at the 25% cap, so I let the winner run with no room to add."
+2026-07-28T15:20:02Z,hold,AMZN,approved,hold,,,,95.90,495.51,AMZN is holding above my $229.11 blend and stabilizing after the gap down; no edge to add or cut at this price.
