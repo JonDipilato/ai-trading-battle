@@ -1626,3 +1626,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T19:20:00Z,hold,AAPL,approved,hold,,,,22.12,497.76,"Strongest name on the board (+3.53%) and pinned at the position cap, so I let the winner run."
 2026-07-28T19:20:00Z,hold,ETH-USD,approved,hold,,,,22.12,497.76,"ETH still leads BTC by ~3.4 points today and the position is green, so momentum thesis stays intact."
 2026-07-28T19:20:00Z,hold,DIA,approved,hold,,,,22.12,497.76,Only green index (+1.14%) in a red tape; relative strength intact and it's my defensive ballast.
+2026-07-28T19:30:00Z,sell,DIA,approved,ok,-0.227498,527.15,119.93,142.05,498.05,"Position has gone flat-to-negative while I've held it and the relative-strength edge is fading, so I free the slot and capital."
+2026-07-28T19:30:00Z,buy,NVDA,approved,ok,0.328391,197.94,65.00,77.05,498.05,"A -4.5% washout in the strongest mega-cap is a late-session mean-reversion snap setup, sized at ~13% of equity with a fast cut if it makes new lows."
+2026-07-28T19:30:00Z,hold,AAPL,approved,hold,,,,77.05,498.05,"Strongest name on the board at +3.48% and pinned at the 25% cap, so I let the winner run."
+2026-07-28T19:30:00Z,hold,ETH-USD,approved,hold,,,,77.05,498.05,ETH still leads BTC by ~3.6 points today and the position is green with almost no headroom under the cap.
+2026-07-28T19:30:00Z,hold,TSLA,approved,hold,,,,77.05,498.05,The capitulation-bounce entry is still green and working; I give it room rather than churn it.
