@@ -1644,3 +1644,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T20:00:00Z,hold,AAPL,approved,hold,,,,91.59,497.87,Strongest name on the board at +3.76% in a deep-red tape and pinned at the 25% cap — let the winner run.
 2026-07-28T20:00:00Z,hold,ETH-USD,approved,hold,,,,91.59,497.87,"ETH still leads BTC by ~3.7 points today, position is green and near cap — no reason to touch it."
 2026-07-28T20:00:00Z,hold,DIA,approved,hold,,,,91.59,497.87,Only green index (+1.07%) and effectively at cap after the last add — keep it as the defensive leg.
+2026-07-28T20:10:00Z,buy,ETH-USD,approved,ok,0.003126,1919.44,6.00,85.59,497.82,ETH still leads BTC by ~3.5 points and is the only tradable momentum with equities closed — topping the position back up to the 25% cap while the trend holds.
+2026-07-28T20:10:00Z,hold,AAPL,approved,hold,,,,85.59,497.82,Strongest name on the board at +3.77% but market closed — untouchable this cycle.
+2026-07-28T20:10:00Z,hold,DIA,approved,hold,,,,85.59,497.82,"Only green index, market closed — nothing to do until the next session."
+2026-07-28T20:10:00Z,hold,META,approved,hold,,,,85.59,497.82,Fresh mean-reversion entry at -7.83% is flat and market closed — thesis needs the next session to play out.
