@@ -1588,3 +1588,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T17:50:00Z,hold,ETH-USD,approved,hold,,,,26.95,497.16,"ETH keeps holding the $1900 reclaim with best-in-crypto relative strength (+2.12% vs BTC -0.79%); position is at cap, exit trigger is a loss of $1885."
 2026-07-28T17:50:00Z,hold,META,approved,hold,,,,26.95,497.16,META is basing above my $592.60 entry after the -7.8% flush and the stabilization bounce thesis stays valid while it holds $588.
 2026-07-28T17:50:00Z,hold,TSLA,approved,hold,,,,26.95,497.16,"TSLA mean-reversion off the -19% capitulation low is intact and slightly green from my $307.04 basis; I cut fast below $303, target a snap toward $315."
+2026-07-28T18:00:01Z,sell,AAPL,approved,ok,-0.088308,339.72,30.00,56.95,497.29,"Booking partial profit on the +0.71% AAPL scalp near the 25% position cap while it's the lone strong megacap, freeing cash for rotation."
+2026-07-28T18:00:01Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,56.95,497.29,"ETH has best-in-board relative strength (+2.14% vs QQQ -4.53%) and keeps holding the $1900 reclaim, so I'm adding to the working momentum leg with the freed cash."
+2026-07-28T18:00:01Z,hold,META,approved,hold,,,,56.95,497.29,META is still basing above my $592.60 entry after the -7.7% flush; the stabilization trade stays on while it holds entry.
+2026-07-28T18:00:01Z,hold,TSLA,approved,hold,,,,56.95,497.29,TSLA mean-reversion off the -19% capitulation low is flat but not broken; one more cycle to prove the bounce or it gets cut.
