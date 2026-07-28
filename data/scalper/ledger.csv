@@ -1592,3 +1592,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T18:00:01Z,buy,ETH-USD,vetoed,position would exceed 25% of equity,,,,56.95,497.29,"ETH has best-in-board relative strength (+2.14% vs QQQ -4.53%) and keeps holding the $1900 reclaim, so I'm adding to the working momentum leg with the freed cash."
 2026-07-28T18:00:01Z,hold,META,approved,hold,,,,56.95,497.29,META is still basing above my $592.60 entry after the -7.7% flush; the stabilization trade stays on while it holds entry.
 2026-07-28T18:00:01Z,hold,TSLA,approved,hold,,,,56.95,497.29,TSLA mean-reversion off the -19% capitulation low is flat but not broken; one more cycle to prove the bounce or it gets cut.
+2026-07-28T18:10:03Z,sell,TSLA,approved,ok,-0.390826,306.04,119.61,176.56,497.10,"The -19% capitulation bounce has stalled flat-to-red for three straight cycles — dead money, cutting to rotate the $119 into live strength."
+2026-07-28T18:10:03Z,buy,AAPL,approved,ok,0.103055,339.62,35.00,141.56,497.10,AAPL is the strongest name on the board (+3.63% vs SPY -1.00%) and my position is well under the 25% cap — pressing the winner while momentum holds.
+2026-07-28T18:10:03Z,hold,ETH-USD,approved,hold,,,,141.56,497.10,"ETH keeps best-in-board relative strength (+2.56%) but the position sits near the 25% cap, so I ride it rather than add."
+2026-07-28T18:10:03Z,hold,META,approved,hold,,,,141.56,497.10,"META is still basing above my $592.60 entry after the -7.8% flush; stabilization thesis intact, exit if it loses the entry."
