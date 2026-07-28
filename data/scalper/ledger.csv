@@ -1526,3 +1526,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-28T15:20:02Z,buy,NVDA,approved,ok,0.253402,197.31,50.00,95.90,495.51,"NVDA bounce off the $196 round-number entry is working (+0.35% since fill) while still -4.8% on the day versus SPY -1.0%, so I press the mean-reversion snap to ~22% of equity, still under the cap."
 2026-07-28T15:20:02Z,hold,ETH-USD,approved,hold,,,,95.90,495.51,"ETH is the only green risk asset (+1.46%) and the position sits at the 25% cap, so I let the winner run with no room to add."
 2026-07-28T15:20:02Z,hold,AMZN,approved,hold,,,,95.90,495.51,AMZN is holding above my $229.11 blend and stabilizing after the gap down; no edge to add or cut at this price.
+2026-07-28T15:30:00Z,sell,NVDA,approved,ok,-0.254155,196.73,50.00,145.90,496.63,"The 197.31 bounce add has gone negative with NVDA still -5% on the day, so I cut the failed tranche back to core and keep powder dry."
+2026-07-28T15:30:00Z,buy,AMZN,approved,ok,0.130271,230.29,30.00,115.90,496.63,"AMZN keeps holding above my 229.11 blend after a -7% gap while SPY stabilizes, so I add a small mean-reversion tranche staying under the 25% cap."
+2026-07-28T15:30:00Z,hold,AAPL,approved,hold,,,,115.90,496.63,"AAPL is the strongest relative-strength name on the tape (+3.5% vs QQQ -4.6%) and I already banked half at 339.31, so the remainder rides."
+2026-07-28T15:30:00Z,hold,ETH-USD,approved,hold,,,,115.90,496.63,"ETH is still the leading green risk asset (+2.7%) but the position sits at the 25% cap, so no add is possible."
