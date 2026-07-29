@@ -1714,3 +1714,4 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-29T03:30:00Z,sell,ETH-USD,vetoed,no position to sell,,,,148.98,497.22,No ETH position remains to sell — skip.
 2026-07-29T03:30:00Z,buy,ETH-USD,vetoed,max 4 open positions,,,,148.98,497.22,"ETH is the only tradable asset with positive momentum (+1.27%) while BTC sits at -0.98%, so I'm rotating fresh capital into the stronger leg of the pair."
 2026-07-29T03:30:00Z,sell,BTC-USD,approved,ok,-0.000941,63680.94,59.90,208.88,497.22,"BTC is -0.17% against my $63,788 average and has been the weaker leg all session at -0.98% today; cut it and redeploy into the ETH momentum side."
+2026-07-29T03:40:01Z,buy,ETH-USD,approved,ok,0.028982,1897.70,55.00,153.88,497.22,"ETH is the only asset with green momentum on a broadly red tape (+1.31% while BTC is -0.92% and every equity is closed), so I'm taking a ~11% equity starter in the relative-strength leg with a tight leash."
