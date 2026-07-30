@@ -2090,3 +2090,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-30T16:40:00Z,buy,AAPL,approved,ok,0.180720,332.01,60.00,319.72,499.58,"AAPL at +3.22% is the cleanest green trend on a mixed tape and is making a new high after I sold it too early last cycle, so I'm re-entering for the continuation."
 2026-07-30T16:40:00Z,buy,AMZN,approved,ok,0.230357,238.76,55.00,264.72,499.58,"AMZN +2.18% is the second-strongest non-parabolic uptrend holding up while QQQ, NVDA and TSLA are red, filling my fourth slot with a diversified momentum leg."
 2026-07-30T16:40:00Z,hold,MSFT,approved,hold,,,,264.72,499.58,"MSFT is only -0.21% against a +19.03% dominant day trend, so I keep the position but tighten mentally — any break of the day's uptrend and it goes next cycle."
+2026-07-30T16:50:00Z,sell,GOOGL,approved,ok,-0.179198,333.70,59.80,324.51,499.42,"GOOGL is red against a +5.04% day and is my worst holder, so I cut it and free cash for the dominant trend."
+2026-07-30T16:50:00Z,buy,MSFT,approved,ok,0.121027,454.44,55.00,269.51,499.42,MSFT at +19.10% is the single dominant trend on the board and I want more size in the only real momentum leader.
