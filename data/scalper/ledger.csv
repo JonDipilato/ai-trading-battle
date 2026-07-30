@@ -1925,3 +1925,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-30T02:50:00Z,buy,BTC-USD,approved,ok,0.000857,64164.76,55.00,335.94,495.89,"Equities are dark so crypto is the only live tape, and BTC at $64,165 is down only -1.80% versus ETH's -2.18%, so I'm adding the relatively stronger leg for a fast scalp back toward $64,300."
 2026-07-30T02:50:00Z,hold,ETH-USD,approved,hold,,,,335.94,495.89,"ETH is flat on my $1,911.04 entry with no edge in dumping it for a two-basis-point loss; give the position room to snap back."
 2026-07-30T02:50:00Z,hold,NVDA,approved,hold,,,,335.94,495.89,"NVDA is -10.40% but the equity tape is closed, so the 0.3155 shares cannot be traded this cycle."
+2026-07-30T03:00:00Z,buy,ETH-USD,approved,ok,0.023577,1908.60,45.00,290.94,495.79,"ETH is the weakest live tape at -2.29% versus BTC -1.89%, so I'm adding to the existing 0.0235 ETH near $1,908 for a mean-reversion snap while crypto is the only market open."
+2026-07-30T03:00:00Z,hold,BTC-USD,approved,hold,,,,290.94,495.79,"BTC at $64,103 is only -0.10% on my $64,165 entry and I'd rather concentrate the mean-reversion add in the more oversold ETH than double the correlated crypto beta."
+2026-07-30T03:00:00Z,hold,NVDA,approved,hold,,,,290.94,495.79,"NVDA is -10.40% but the equity tape is closed, so the 0.3155 shares cannot be traded this cycle."
