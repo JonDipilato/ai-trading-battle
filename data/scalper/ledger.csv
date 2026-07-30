@@ -1949,3 +1949,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-30T04:10:00Z,sell,BTC-USD,approved,ok,-0.000858,64044.26,54.97,435.65,495.60,"BTC is still bleeding at -1.98% with no bounce after two cycles of round-tripping the same $64k level, so I take the tiny loss and stop paying spread on a downtrend."
 2026-07-30T04:10:00Z,buy,ETH-USD,approved,ok,0.028847,1906.59,55.00,380.65,495.60,ETH at $1906 is the more oversold live tape (-2.40% vs BTC -1.98%) and gives the higher-beta snapback if crypto stabilizes overnight.
 2026-07-30T04:10:00Z,hold,NVDA,approved,hold,,,,380.65,495.60,"NVDA is -10.40% but the equity tape is closed, so the 0.3155 shares cannot be traded this cycle."
+2026-07-30T04:20:00Z,sell,ETH-USD,approved,ok,-0.028847,1903.56,54.91,435.56,495.52,"ETH is still the weakest live tape at -2.55% and has kept sliding since entry with no bounce, so cut the loser fast rather than average into a falling knife."
+2026-07-30T04:20:00Z,buy,BTC-USD,approved,ok,0.000859,64015.56,55.00,380.56,495.52,"BTC at -2.03% is holding better than ETH on the same risk-off tape, so rotate the crypto sleeve into the relatively stronger asset for any overnight mean-reversion snap."
+2026-07-30T04:20:00Z,hold,NVDA,approved,hold,,,,380.56,495.52,"NVDA is -10.40% but the equity tape is closed, so the 0.3155 shares cannot be traded this cycle."
