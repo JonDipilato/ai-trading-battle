@@ -2076,3 +2076,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-30T15:30:01Z,buy,AAPL,approved,ok,0.166065,331.19,55.00,382.56,497.56,AAPL at +2.96% is a clean secondary uptrend on a broadly red tape and is the best non-parabolic long alongside the MSFT leader.
 2026-07-30T15:40:00Z,sell,MSFT,approved,ok,-0.134912,448.24,60.47,443.03,498.12,MSFT is +17.47% on the day and parabolic against a red tape — taking the +0.79% gain fast rather than holding a blow-off top into a fade.
 2026-07-30T15:40:00Z,buy,GOOGL,approved,ok,0.180603,332.22,60.00,383.03,498.12,"GOOGL at +4.57% is the strongest clean uptrend that isn't parabolic and is making new highs while QQQ is red, so it's the best relative-strength entry available."
+2026-07-30T15:50:00Z,sell,AAPL,approved,ok,-0.166065,331.86,55.11,438.14,498.39,AAPL is only +0.20% on entry and its +3.17% move is the weakest of the green names — free the cash for a stronger trend.
+2026-07-30T15:50:00Z,buy,MSFT,approved,ok,0.133360,449.91,60.00,378.14,498.39,MSFT at +17.91% is by far the strongest trend on a mixed tape and it made a new high since I sold at $448.24 — re-entering the leader.
