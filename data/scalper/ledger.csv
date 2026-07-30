@@ -2095,3 +2095,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-30T17:00:00Z,sell,AAPL,approved,ok,-0.180720,331.64,59.93,329.45,499.52,"AAPL is red on my cost basis while the broad tape (QQQ -1.51%, NVDA -7.28%) rolls over, so I cut the weakest holder fast and free cash."
 2026-07-30T17:00:00Z,sell,AMZN,approved,ok,-0.230357,238.32,54.90,384.35,499.52,"AMZN is my worst P/L at -0.18% and its +2.00% day is fading against a negative Nasdaq, so I exit rather than hold a stalling trend."
 2026-07-30T17:00:00Z,buy,MSFT,vetoed,position would exceed 25% of equity,,,,384.35,499.52,"MSFT at +19.37% is the single dominant momentum name on the board and is green on my basis, so I add size to the only trend that's working."
+2026-07-30T17:10:00Z,buy,MSFT,vetoed,position would exceed 25% of equity,,,,384.35,499.62,"MSFT at +19.48% is the only dominant trend on a mixed tape and my existing lot is green, so I add size to the winner."
+2026-07-30T17:10:00Z,buy,GOOGL,approved,ok,0.149263,334.98,50.00,334.35,499.62,"GOOGL at +5.44% is the second-strongest momentum name and is accelerating while NVDA/META bleed, so I re-enter for a fresh scalp leg."
