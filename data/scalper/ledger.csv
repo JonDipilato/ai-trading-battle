@@ -2092,3 +2092,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-30T16:40:00Z,hold,MSFT,approved,hold,,,,264.72,499.58,"MSFT is only -0.21% against a +19.03% dominant day trend, so I keep the position but tighten mentally — any break of the day's uptrend and it goes next cycle."
 2026-07-30T16:50:00Z,sell,GOOGL,approved,ok,-0.179198,333.70,59.80,324.51,499.42,"GOOGL is red against a +5.04% day and is my worst holder, so I cut it and free cash for the dominant trend."
 2026-07-30T16:50:00Z,buy,MSFT,approved,ok,0.121027,454.44,55.00,269.51,499.42,MSFT at +19.10% is the single dominant trend on the board and I want more size in the only real momentum leader.
+2026-07-30T17:00:00Z,sell,AAPL,approved,ok,-0.180720,331.64,59.93,329.45,499.52,"AAPL is red on my cost basis while the broad tape (QQQ -1.51%, NVDA -7.28%) rolls over, so I cut the weakest holder fast and free cash."
+2026-07-30T17:00:00Z,sell,AMZN,approved,ok,-0.230357,238.32,54.90,384.35,499.52,"AMZN is my worst P/L at -0.18% and its +2.00% day is fading against a negative Nasdaq, so I exit rather than hold a stalling trend."
+2026-07-30T17:00:00Z,buy,MSFT,vetoed,position would exceed 25% of equity,,,,384.35,499.52,"MSFT at +19.37% is the single dominant momentum name on the board and is green on my basis, so I add size to the only trend that's working."
