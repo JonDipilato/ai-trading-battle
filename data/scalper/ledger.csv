@@ -2276,3 +2276,4 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T14:40:01Z,buy,MSFT,approved,ok,0.109970,454.67,50.00,231.22,499.85,"MSFT momentum reversed its fade and re-accelerated from +18.74% to +19.12% since my 454.76 exit, so I'm re-entering small at effectively the same price to ride the resumed leader."
 2026-07-31T14:40:01Z,buy,AMZN,approved,ok,0.073851,270.81,20.00,211.22,499.85,"AMZN keeps strengthening (+16.18% to +16.68%) with my position green, so I'm topping up to just under the 25% cap."
 2026-07-31T14:40:01Z,hold,GOOGL,approved,hold,,,,211.22,499.85,"GOOGL trend is intact at +8.94% and my position is +2.54%, but at 23.6% of equity it's already at the position cap so I let it run."
+2026-07-31T14:50:00Z,buy,MSFT,approved,ok,0.098741,455.74,45.00,166.22,500.71,"MSFT re-accelerated from +19.12% to +19.40% since my re-entry and sits at only 10% of equity, so I'm adding while GOOGL and AMZN ride near the position cap."
