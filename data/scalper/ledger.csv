@@ -2277,3 +2277,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T14:40:01Z,buy,AMZN,approved,ok,0.073851,270.81,20.00,211.22,499.85,"AMZN keeps strengthening (+16.18% to +16.68%) with my position green, so I'm topping up to just under the 25% cap."
 2026-07-31T14:40:01Z,hold,GOOGL,approved,hold,,,,211.22,499.85,"GOOGL trend is intact at +8.94% and my position is +2.54%, but at 23.6% of equity it's already at the position cap so I let it run."
 2026-07-31T14:50:00Z,buy,MSFT,approved,ok,0.098741,455.74,45.00,166.22,500.71,"MSFT re-accelerated from +19.12% to +19.40% since my re-entry and sits at only 10% of equity, so I'm adding while GOOGL and AMZN ride near the position cap."
+2026-07-31T15:00:00Z,sell,MSFT,approved,ok,-0.208710,452.29,94.40,260.61,500.57,"MSFT momentum broke from +19.40% to +18.49% since my last add and the position went red, so I'm cutting the loser fast and freeing cash to re-enter if it re-accelerates."
+2026-07-31T15:00:00Z,hold,GOOGL,approved,hold,,,,260.61,500.57,"GOOGL is the strongest trend (+8.94% to +10.16%) and my position is +3.69%, but at ~23.8% of equity it's pinned against the 25% cap so I ride it rather than add."
+2026-07-31T15:00:00Z,hold,AMZN,approved,hold,,,,260.61,500.57,"AMZN trend is intact at +16.68% with my position green, but at ~24.1% of equity there's no room to add under the cap."
