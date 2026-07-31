@@ -2363,3 +2363,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T19:00:03Z,hold,GOOGL,approved,hold,,,,90.52,501.43,"GOOGL is +11.11% on the day and green +0.55%, but at 24.1% of equity it sits at the cap — ride it."
 2026-07-31T19:00:03Z,hold,MSFT,approved,hold,,,,90.52,501.43,"MSFT is still the strongest tape at +20.81% though momentum is cooling slightly — position -0.30% is within noise, cut only if day momentum cracks below +19%."
 2026-07-31T19:00:03Z,hold,AAPL,approved,hold,,,,90.52,501.43,"AAPL mean-reversion is working (-9.23% to -9.08% day, position +0.25%) — give the snap-back room, exit if it breaks below entry by 1%."
+2026-07-31T19:10:00Z,buy,AAPL,approved,ok,0.147815,304.44,45.00,45.52,501.94,"AAPL mean-reversion snap is accelerating (day loss narrowed -9.23% to -8.58%, position +0.80%) and at only 11% of equity it has the most room — add to the working trade."
+2026-07-31T19:10:00Z,buy,MSFT,approved,ok,0.021622,462.49,10.00,35.52,501.94,MSFT momentum is reaccelerating (+20.81% to +21.16%) as the strongest tape on the board — top the position up to the 25% cap.
+2026-07-31T19:10:00Z,hold,GOOGL,approved,hold,,,,35.52,501.94,"GOOGL is green and +11% on the day but sits at 24.1% of equity, pinned at the position cap with momentum flat."
+2026-07-31T19:10:00Z,hold,AMZN,approved,hold,,,,35.52,501.94,AMZN is at 23.9% of equity right under the cap and momentum is drifting sideways (+17.03% to +16.97%) — no room and no fresh signal to add.
