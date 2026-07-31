@@ -2347,3 +2347,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T18:20:00Z,hold,GOOGL,approved,hold,,,,275.42,501.86,"GOOGL momentum is intact at +11.37% with the position green +1.39%, so let the winner run with a mental stop at breakeven."
 2026-07-31T18:20:00Z,hold,AMZN,approved,hold,,,,275.42,501.86,"AMZN entry is two cycles old at +16.98% day momentum and slightly green, thesis unchanged."
 2026-07-31T18:20:00Z,hold,META,approved,hold,,,,275.42,501.86,"META snap-back is two cycles old and green +0.36% off a -7.43% dislocation, giving the bounce more room before judging it."
+2026-07-31T18:30:00Z,sell,META,approved,ok,-0.100182,550.07,55.11,330.52,501.74,Snap-back thesis is three cycles old and dead flat at +0.19% against a -7.58% tape — cut the laggard and recycle capital into what's working.
+2026-07-31T18:30:00Z,buy,MSFT,approved,ok,0.118807,462.94,55.00,275.52,501.74,"MSFT is the strongest momentum on the board at +21.28% and our entry is already green — press the winner with recycled META capital, keeping the position under the 25% cap."
+2026-07-31T18:30:00Z,hold,GOOGL,approved,hold,,,,275.52,501.74,GOOGL momentum intact at +11.38% and position green +1.40% — let the winner run.
+2026-07-31T18:30:00Z,hold,AMZN,approved,hold,,,,275.52,501.74,"AMZN day momentum still +16.68% and position only -0.17% — thesis not broken, give it one more cycle before cutting."
