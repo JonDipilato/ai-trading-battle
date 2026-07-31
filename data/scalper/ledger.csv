@@ -2338,3 +2338,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T18:00:02Z,buy,META,approved,ok,0.100182,549.00,55.00,340.28,501.04,META at -7.76% is the second-deepest dislocation on a green tape (SPY +0.89) and pairs the AAPL snap-back bet without overlapping it.
 2026-07-31T18:00:02Z,hold,GOOGL,approved,hold,,,,340.28,501.04,"GOOGL re-accelerated from +10.58 to +10.70 with the position green +0.78%, so let the winner run."
 2026-07-31T18:00:02Z,hold,AAPL,approved,hold,,,,340.28,501.04,"AAPL mean-reversion entry is only one cycle old and down just -0.16%, thesis intact while the stock sits at max stretch -9.73%."
+2026-07-31T18:10:00Z,buy,AMZN,approved,ok,0.184318,271.27,50.00,290.28,501.18,"AMZN at +16.87% is the strongest fresh momentum name not yet held, and with MSFT stabilizing rather than leading, a ~10%-of-equity starter fills the fourth slot on the day's leader."
+2026-07-31T18:10:00Z,hold,GOOGL,approved,hold,,,,290.28,501.18,"GOOGL re-accelerated again from +10.70 to +10.92 with the position green +0.98%, so the trend leg is still paying and gets more room."
+2026-07-31T18:10:00Z,hold,AAPL,approved,hold,,,,290.28,501.18,"AAPL mean-reversion entry is flat at -0.05% two cycles in with the dislocation still stretched at -9.62% on a green tape, thesis intact."
+2026-07-31T18:10:00Z,hold,META,approved,hold,,,,290.28,501.18,"META snap-back entry is one cycle old and flat at -0.05% while SPY holds +0.94%, so the reversion setup remains live."
