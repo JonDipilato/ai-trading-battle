@@ -2342,3 +2342,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T18:10:00Z,hold,GOOGL,approved,hold,,,,290.28,501.18,"GOOGL re-accelerated again from +10.70 to +10.92 with the position green +0.98%, so the trend leg is still paying and gets more room."
 2026-07-31T18:10:00Z,hold,AAPL,approved,hold,,,,290.28,501.18,"AAPL mean-reversion entry is flat at -0.05% two cycles in with the dislocation still stretched at -9.62% on a green tape, thesis intact."
 2026-07-31T18:10:00Z,hold,META,approved,hold,,,,290.28,501.18,"META snap-back entry is one cycle old and flat at -0.05% while SPY holds +0.94%, so the reversion setup remains live."
+2026-07-31T18:20:00Z,sell,AAPL,approved,ok,-0.149442,302.03,45.14,335.42,501.86,"AAPL mean-reversion has gone nowhere in three cycles (+0.30%) while the stock sits -9.31% with no bounce impulse, so I'm freeing the position slot for the day's momentum leader."
+2026-07-31T18:20:00Z,buy,MSFT,approved,ok,0.129825,462.16,60.00,275.42,501.86,MSFT is the strongest tape on the board at +21.08% and still unheld — entering ~12% of equity into the momentum leader with QQQ/SPY green confirming risk-on.
+2026-07-31T18:20:00Z,hold,GOOGL,approved,hold,,,,275.42,501.86,"GOOGL momentum is intact at +11.37% with the position green +1.39%, so let the winner run with a mental stop at breakeven."
+2026-07-31T18:20:00Z,hold,AMZN,approved,hold,,,,275.42,501.86,"AMZN entry is two cycles old at +16.98% day momentum and slightly green, thesis unchanged."
+2026-07-31T18:20:00Z,hold,META,approved,hold,,,,275.42,501.86,"META snap-back is two cycles old and green +0.36% off a -7.43% dislocation, giving the bounce more room before judging it."
