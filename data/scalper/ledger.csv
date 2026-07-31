@@ -2367,3 +2367,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T19:10:00Z,buy,MSFT,approved,ok,0.021622,462.49,10.00,35.52,501.94,MSFT momentum is reaccelerating (+20.81% to +21.16%) as the strongest tape on the board — top the position up to the 25% cap.
 2026-07-31T19:10:00Z,hold,GOOGL,approved,hold,,,,35.52,501.94,"GOOGL is green and +11% on the day but sits at 24.1% of equity, pinned at the position cap with momentum flat."
 2026-07-31T19:10:00Z,hold,AMZN,approved,hold,,,,35.52,501.94,AMZN is at 23.9% of equity right under the cap and momentum is drifting sideways (+17.03% to +16.97%) — no room and no fresh signal to add.
+2026-07-31T19:20:00Z,buy,AAPL,approved,ok,0.078634,305.21,24.00,11.52,502.46,"AAPL mean-reversion snap keeps working (day loss narrowed -8.58% to -8.35%, position +0.70%) — add to just under the 25% cap while the bounce runs."
+2026-07-31T19:20:00Z,hold,MSFT,approved,hold,,,,11.52,502.46,"MSFT is still the strongest tape (+21.16% to +21.35%) but already pinned at 24.9% of equity, so I ride it."
+2026-07-31T19:20:00Z,hold,GOOGL,approved,hold,,,,11.52,502.46,"GOOGL green at +11.15% and 24.1% of equity — capped out, momentum intact, let it work."
+2026-07-31T19:20:00Z,hold,AMZN,approved,hold,,,,11.52,502.46,AMZN momentum is stalling sideways at +16.92% and flat P/L — one more cycle before I cut it for fresher rotation.
