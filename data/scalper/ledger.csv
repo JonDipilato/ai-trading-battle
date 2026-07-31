@@ -2351,3 +2351,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T18:30:00Z,buy,MSFT,approved,ok,0.118807,462.94,55.00,275.52,501.74,"MSFT is the strongest momentum on the board at +21.28% and our entry is already green — press the winner with recycled META capital, keeping the position under the 25% cap."
 2026-07-31T18:30:00Z,hold,GOOGL,approved,hold,,,,275.52,501.74,GOOGL momentum intact at +11.38% and position green +1.40% — let the winner run.
 2026-07-31T18:30:00Z,hold,AMZN,approved,hold,,,,275.52,501.74,"AMZN day momentum still +16.68% and position only -0.17% — thesis not broken, give it one more cycle before cutting."
+2026-07-31T18:40:00Z,buy,GOOGL,approved,ok,0.112551,355.39,40.00,235.52,501.40,GOOGL momentum intact at +11.15% and position green +1.19% — scale into the working winner while staying under the 25% cap.
+2026-07-31T18:40:00Z,buy,AAPL,approved,ok,0.182110,302.01,55.00,180.52,501.40,AAPL -9.31% is the deepest dislocation on the board and fills our open 4th slot for a small mean-reversion snap with a fast cut if it keeps bleeding.
+2026-07-31T18:40:00Z,hold,AMZN,approved,hold,,,,180.52,501.40,"AMZN day momentum still +16.63% and position only -0.20% — thesis not broken, give it one more cycle."
+2026-07-31T18:40:00Z,hold,MSFT,approved,hold,,,,180.52,501.40,MSFT is the strongest tape at +21.08% and the position sits at the 25% cap — nothing to do but let it work.
