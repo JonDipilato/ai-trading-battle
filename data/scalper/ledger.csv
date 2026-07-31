@@ -2270,3 +2270,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T14:20:00Z,sell,MSFT,approved,ok,-0.197965,454.76,90.03,376.22,498.47,"MSFT faded from +20.3% to +19.1% and my re-entry flipped red at -0.72%, so I'm cutting the loser fast before the pullback deepens."
 2026-07-31T14:20:00Z,buy,GOOGL,approved,ok,0.115615,345.98,40.00,336.22,498.47,"GOOGL is the steadiest trend on the board at +8.2% and my position is +3.66%, so I'm scaling into strength while staying under the 25% cap."
 2026-07-31T14:20:00Z,hold,AMZN,approved,hold,,,,336.22,498.47,"AMZN is holding +15.7% day momentum and my fresh entry is flat-to-green, so I'm giving the trend room."
+2026-07-31T14:30:00Z,buy,AMZN,approved,ok,0.148338,269.65,40.00,296.22,499.19,"AMZN momentum improved from +15.7% to +16.18% while my entry stays green, so I'm adding to the strongest confirmed trend I own."
+2026-07-31T14:30:00Z,buy,GOOGL,approved,ok,0.043146,347.66,15.00,281.22,499.19,"GOOGL strengthened from +8.2% to +8.73% and my position is +2.69%, so I'm topping up toward the position cap while the trend accelerates."
+2026-07-31T14:30:00Z,hold,MSFT,approved,hold,,,,281.22,499.19,"MSFT keeps fading (+20.3% to +18.74%) since my exit at 454.76, so no re-entry until the slide stops."
