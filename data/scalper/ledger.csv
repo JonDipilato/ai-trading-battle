@@ -2329,3 +2329,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T17:30:01Z,buy,MSFT,approved,ok,0.107842,463.64,50.00,330.99,502.06,MSFT is still accelerating as day leader (+21.14 at entry to +21.47 now) — add 10% of equity while staying under the 25% cap.
 2026-07-31T17:30:01Z,buy,AMZN,approved,ok,0.221206,271.24,60.00,270.99,502.06,"AMZN momentum re-ignited from +16.31 at my exit to +16.86 now, so I'm re-entering a 12% starter on the fresh acceleration."
 2026-07-31T17:30:01Z,hold,GOOGL,approved,hold,,,,270.99,502.06,GOOGL is grinding up (+10.73 to +10.83) but shows no fresh breakout — keep the small winner running.
+2026-07-31T17:40:01Z,sell,AMZN,approved,ok,-0.221206,270.59,59.86,330.85,501.52,"AMZN momentum stalled since re-entry (+16.86 at fill to +16.58 now) and the position went red, so I cut fast and keep powder for the next ignition."
+2026-07-31T17:40:01Z,hold,MSFT,approved,hold,,,,330.85,501.52,"MSFT is still the day leader but decelerated (+21.47 to +21.19) and sits only -0.08% off my add — one more cycle of grace, exit if the fade continues."
+2026-07-31T17:40:01Z,hold,GOOGL,approved,hold,,,,330.85,501.52,"GOOGL is green at +0.67% but ticked down from +10.83 to +10.58 with no fresh breakout, so I let the winner run with no add."
