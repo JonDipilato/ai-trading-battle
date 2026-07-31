@@ -2321,3 +2321,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T17:10:00Z,sell,AMZN,approved,ok,-0.147629,270.95,40.00,260.01,501.92,"The 17:00 add at 271.10 failed — day momentum decelerated from +16.80 to +16.73 and price faded to 270.95, so cut the add back and keep the core."
 2026-07-31T17:10:00Z,buy,AAPL,approved,ok,0.083007,301.18,25.00,235.01,501.92,Mean-reversion bounce is confirming with a third consecutive uptick (300.72 to 300.92 to 301.18) — add to the winner up to just under the 25% cap.
 2026-07-31T17:10:00Z,hold,GOOGL,approved,hold,,,,235.01,501.92,GOOGL momentum is flat around +10.4 with no fresh acceleration or breakdown — no edge to add or cut this cycle.
+2026-07-31T17:20:01Z,buy,MSFT,approved,ok,0.129765,462.38,60.00,175.01,502.00,MSFT is the clear day-momentum leader at +21.14% and we hold none — enter a 12%-of-equity starter to ride the strongest tape on the board.
+2026-07-31T17:20:01Z,sell,AMZN,approved,ok,-0.299264,269.96,80.79,255.79,502.00,AMZN day momentum has decayed three straight cycles (+16.80 to +16.73 to +16.31) — take the small gain and recycle capital into the stronger MSFT tape.
+2026-07-31T17:20:01Z,hold,GOOGL,approved,hold,,,,255.79,502.00,GOOGL ticked back up from +10.4 to +10.73 but hasn't broken to a fresh acceleration — keep the winner running with no add.
+2026-07-31T17:20:01Z,hold,AAPL,approved,hold,,,,255.79,502.00,"Mean-reversion bounce still confirming (301.18 entry to 301.57) and position sits at the 25% cap — let it work, no room to add."
