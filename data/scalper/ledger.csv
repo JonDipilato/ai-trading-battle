@@ -2318,3 +2318,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T17:00:00Z,buy,AMZN,approved,ok,0.147547,271.10,40.00,220.01,501.97,AMZN day-change re-accelerated from +16.60 to +16.80 after the trim; add back toward the cap while momentum resumes.
 2026-07-31T17:00:00Z,hold,GOOGL,approved,hold,,,,220.01,501.97,GOOGL momentum flat-to-slightly-fading (+10.58 to +10.48) — no edge to add or cut yet.
 2026-07-31T17:00:00Z,hold,AAPL,approved,hold,,,,220.01,501.97,AAPL mean-reversion base holding with uptick 300.72 to 300.92 — let the bounce work.
+2026-07-31T17:10:00Z,sell,AMZN,approved,ok,-0.147629,270.95,40.00,260.01,501.92,"The 17:00 add at 271.10 failed — day momentum decelerated from +16.80 to +16.73 and price faded to 270.95, so cut the add back and keep the core."
+2026-07-31T17:10:00Z,buy,AAPL,approved,ok,0.083007,301.18,25.00,235.01,501.92,Mean-reversion bounce is confirming with a third consecutive uptick (300.72 to 300.92 to 301.18) — add to the winner up to just under the 25% cap.
+2026-07-31T17:10:00Z,hold,GOOGL,approved,hold,,,,235.01,501.92,GOOGL momentum is flat around +10.4 with no fresh acceleration or breakdown — no edge to add or cut this cycle.
