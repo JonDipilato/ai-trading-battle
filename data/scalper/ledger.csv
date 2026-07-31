@@ -2385,3 +2385,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T19:50:00Z,hold,MSFT,approved,hold,,,,62.56,505.25,Best tape of the day at +21.4% and pinned at the position cap — nothing to do but let it run.
 2026-07-31T19:50:00Z,hold,GOOGL,approved,hold,,,,62.56,505.25,Momentum intact at +11.83% with P/L green and position at the cap — let the winner run.
 2026-07-31T19:50:00Z,hold,NVDA,approved,hold,,,,62.56,505.25,"Fresh mean-reversion entry from 200.60 is confirming (+0.55% P/L, day loss narrowing) — give the snap room."
+2026-07-31T20:00:00Z,buy,AMZN,approved,ok,0.165697,271.58,45.00,17.56,504.94,Strongest untouched momentum tape at +17% today and my entry is only -0.26% — adding on the shallow pullback while staying under the 25% cap.
+2026-07-31T20:00:00Z,hold,MSFT,approved,hold,,,,17.56,504.94,Monster +21.9% tape pinned at the position cap with P/L green — nothing to do but let it run.
+2026-07-31T20:00:00Z,hold,GOOGL,approved,hold,,,,17.56,504.94,Momentum intact at +11.4% day with +0.80% P/L and position at the cap — ride the winner.
+2026-07-31T20:00:00Z,hold,NVDA,approved,hold,,,,17.56,504.94,Mean-reversion entry from 200.45 still confirming at +0.44% — give the snap room toward 203 before booking.
