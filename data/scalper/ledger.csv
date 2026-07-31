@@ -2263,3 +2263,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T14:00:00Z,buy,MSFT,approved,ok,0.129712,462.56,60.00,296.62,500.02,"MSFT is the strongest name on the board at +21.19% and still grinding higher, so I'm re-adding the strength I scaled out of, keeping the position well under the 25% cap."
 2026-07-31T14:00:00Z,hold,GOOGL,approved,hold,,,,296.62,500.02,GOOGL at +7.56% with SPY/QQQ green is still trending and my position is +3.04% with no reversal signal.
 2026-07-31T14:00:00Z,hold,NVDA,approved,hold,,,,296.62,500.02,NVDA mean-reversion entry is only one cycle old and flat at -0.00%; giving the snap one more cycle before cutting dead money.
+2026-07-31T14:10:00Z,sell,NVDA,approved,ok,-0.253075,195.85,49.57,346.19,499.36,"Mean-reversion entry has gone the wrong way (-4.5% to -5.3% on the day) while QQQ flipped red, so the thesis is broken and I'm cutting the small loser fast."
+2026-07-31T14:10:00Z,buy,AMZN,approved,ok,0.223543,268.40,60.00,286.19,499.36,"AMZN is +15.6% with real momentum behind it and I have no exposure, so I'm entering ~12% of equity to ride the strongest fresh trend on the board."
+2026-07-31T14:10:00Z,hold,GOOGL,approved,hold,,,,286.19,499.36,"GOOGL is +8.3% on the day and still trending with my position +3.75%, so I'm letting the winner run one more cycle."
+2026-07-31T14:10:00Z,hold,MSFT,approved,hold,,,,286.19,499.36,"MSFT remains the day's strongest name at +20.3% and my re-entry is green, so no reason to interrupt the grind higher."
