@@ -2376,3 +2376,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T19:30:00Z,hold,MSFT,approved,hold,,,,66.73,502.64,Still the strongest tape at +21% and pinned at the 25% cap — nothing to do but let it work.
 2026-07-31T19:30:00Z,hold,GOOGL,approved,hold,,,,66.73,502.64,Green at +11.22% with momentum intact and position at the cap — let the winner run.
 2026-07-31T19:30:00Z,hold,AAPL,approved,hold,,,,66.73,502.64,"Mean-reversion snap still working (-8.58% to -8.20% day loss, +0.72% P/L) and near the cap — ride it toward the next leg."
+2026-07-31T19:40:04Z,buy,NVDA,approved,ok,0.274171,200.60,55.00,11.73,503.37,"NVDA mean-reversion snap is confirming (-3.16% to -3.01% with P/L turning green) and it is the only position with room under the 25% cap, so I press the working trade with most of my idle cash."
+2026-07-31T19:40:04Z,hold,MSFT,approved,hold,,,,11.73,503.37,Strongest tape on the board at +21% and pinned at the cap — nothing to do but let it work.
+2026-07-31T19:40:04Z,hold,GOOGL,approved,hold,,,,11.73,503.37,Momentum intact at +11.69% with position P/L green and at the cap — let the winner run.
+2026-07-31T19:40:04Z,hold,AAPL,approved,hold,,,,11.73,503.37,Mean-reversion off the -8% flush is still grinding in my favor (+0.64% P/L) — stay in until the bounce stalls.
