@@ -2380,3 +2380,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T19:40:04Z,hold,MSFT,approved,hold,,,,11.73,503.37,Strongest tape on the board at +21% and pinned at the cap — nothing to do but let it work.
 2026-07-31T19:40:04Z,hold,GOOGL,approved,hold,,,,11.73,503.37,Momentum intact at +11.69% with position P/L green and at the cap — let the winner run.
 2026-07-31T19:40:04Z,hold,AAPL,approved,hold,,,,11.73,503.37,Mean-reversion off the -8% flush is still grinding in my favor (+0.64% P/L) — stay in until the bounce stalls.
+2026-07-31T19:50:00Z,sell,AAPL,approved,ok,-0.408559,307.99,125.83,137.56,505.25,Mean-reversion scalp captured +1.48% and the snap is decelerating — book it and free ammo per take-profits-fast mandate.
+2026-07-31T19:50:00Z,buy,AMZN,approved,ok,0.275442,272.29,75.00,62.56,505.25,Rotating booked AAPL profit into the strongest untouched tape on the board at +17.31% with a 15%-of-equity momentum entry.
+2026-07-31T19:50:00Z,hold,MSFT,approved,hold,,,,62.56,505.25,Best tape of the day at +21.4% and pinned at the position cap — nothing to do but let it run.
+2026-07-31T19:50:00Z,hold,GOOGL,approved,hold,,,,62.56,505.25,Momentum intact at +11.83% with P/L green and position at the cap — let the winner run.
+2026-07-31T19:50:00Z,hold,NVDA,approved,hold,,,,62.56,505.25,"Fresh mean-reversion entry from 200.60 is confirming (+0.55% P/L, day loss narrowing) — give the snap room."
