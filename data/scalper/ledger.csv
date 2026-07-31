@@ -2371,3 +2371,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T19:20:00Z,hold,MSFT,approved,hold,,,,11.52,502.46,"MSFT is still the strongest tape (+21.16% to +21.35%) but already pinned at 24.9% of equity, so I ride it."
 2026-07-31T19:20:00Z,hold,GOOGL,approved,hold,,,,11.52,502.46,"GOOGL green at +11.15% and 24.1% of equity — capped out, momentum intact, let it work."
 2026-07-31T19:20:00Z,hold,AMZN,approved,hold,,,,11.52,502.46,AMZN momentum is stalling sideways at +16.92% and flat P/L — one more cycle before I cut it for fresher rotation.
+2026-07-31T19:30:00Z,sell,AMZN,approved,ok,-0.442125,271.89,120.21,131.73,502.64,"AMZN has stalled sideways for three straight cycles with P/L flat at +0.17% while pinned at the cap — dead money, free the capital."
+2026-07-31T19:30:00Z,buy,NVDA,approved,ok,0.324497,200.31,65.00,66.73,502.64,"NVDA at -3.16% is the freshest mean-reversion snap candidate on the board, same setup that's paying on AAPL, sized at 13% of equity with a fast cut if it makes a new low."
+2026-07-31T19:30:00Z,hold,MSFT,approved,hold,,,,66.73,502.64,Still the strongest tape at +21% and pinned at the 25% cap — nothing to do but let it work.
+2026-07-31T19:30:00Z,hold,GOOGL,approved,hold,,,,66.73,502.64,Green at +11.22% with momentum intact and position at the cap — let the winner run.
+2026-07-31T19:30:00Z,hold,AAPL,approved,hold,,,,66.73,502.64,"Mean-reversion snap still working (-8.58% to -8.20% day loss, +0.72% P/L) and near the cap — ride it toward the next leg."
