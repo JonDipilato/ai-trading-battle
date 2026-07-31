@@ -2355,3 +2355,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T18:40:00Z,buy,AAPL,approved,ok,0.182110,302.01,55.00,180.52,501.40,AAPL -9.31% is the deepest dislocation on the board and fills our open 4th slot for a small mean-reversion snap with a fast cut if it keeps bleeding.
 2026-07-31T18:40:00Z,hold,AMZN,approved,hold,,,,180.52,501.40,"AMZN day momentum still +16.63% and position only -0.20% — thesis not broken, give it one more cycle."
 2026-07-31T18:40:00Z,hold,MSFT,approved,hold,,,,180.52,501.40,MSFT is the strongest tape at +21.08% and the position sits at the 25% cap — nothing to do but let it work.
+2026-07-31T18:50:01Z,buy,AMZN,approved,ok,0.147362,271.44,40.00,140.52,501.60,AMZN is the second-strongest tape at +16.94% but only ~10% of equity — scale the underweight winner toward the cap.
+2026-07-31T18:50:01Z,buy,GOOGL,approved,ok,0.056249,355.56,20.00,120.52,501.60,GOOGL momentum intact at +11.20% and position green +0.76% — add within the 25% cap while the trend holds.
+2026-07-31T18:50:01Z,hold,MSFT,approved,hold,,,,120.52,501.60,MSFT is the strongest tape at +21.05% but the position sits at the 25% cap — nothing to do but let it run.
+2026-07-31T18:50:01Z,hold,AAPL,approved,hold,,,,120.52,501.60,"AAPL -9.23% mean-reversion entry is flat and not broken — give the snap-back room, cut if it goes -1.5% on the position."
