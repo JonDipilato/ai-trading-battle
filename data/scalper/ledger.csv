@@ -2359,3 +2359,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-07-31T18:50:01Z,buy,GOOGL,approved,ok,0.056249,355.56,20.00,120.52,501.60,GOOGL momentum intact at +11.20% and position green +0.76% — add within the 25% cap while the trend holds.
 2026-07-31T18:50:01Z,hold,MSFT,approved,hold,,,,120.52,501.60,MSFT is the strongest tape at +21.05% but the position sits at the 25% cap — nothing to do but let it run.
 2026-07-31T18:50:01Z,hold,AAPL,approved,hold,,,,120.52,501.60,"AAPL -9.23% mean-reversion entry is flat and not broken — give the snap-back room, cut if it goes -1.5% on the position."
+2026-07-31T19:00:03Z,buy,AMZN,approved,ok,0.110444,271.63,30.00,90.52,501.43,"AMZN momentum is strengthening (+16.94% to +17.03%) with position green — add ~6% of equity, staying under the 25% cap with room to spare."
+2026-07-31T19:00:03Z,hold,GOOGL,approved,hold,,,,90.52,501.43,"GOOGL is +11.11% on the day and green +0.55%, but at 24.1% of equity it sits at the cap — ride it."
+2026-07-31T19:00:03Z,hold,MSFT,approved,hold,,,,90.52,501.43,"MSFT is still the strongest tape at +20.81% though momentum is cooling slightly — position -0.30% is within noise, cut only if day momentum cracks below +19%."
+2026-07-31T19:00:03Z,hold,AAPL,approved,hold,,,,90.52,501.43,"AAPL mean-reversion is working (-9.23% to -9.08% day, position +0.25%) — give the snap-back room, exit if it breaks below entry by 1%."
