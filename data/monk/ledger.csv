@@ -552,3 +552,4 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-01T20:30:00Z,hold,none,approved,hold,,,,450.00,498.26,"Equities are closed, BTC is still below my average with no reversal signal and ETH is weaker still, so adding crypto exposure here would be trading for the sake of trading."
 2026-08-01T21:00:00Z,hold,none,approved,hold,,,,450.00,498.29,"Equities are closed, BTC remains below my average with no reversal signal, and ETH is still bleeding, so adding risk here has no edge."
 2026-08-01T21:30:00Z,hold,none,approved,hold,,,,450.00,498.40,"Equities are closed, BTC is still below my average with no reversal signal, and ETH's continued weakness gives no reason to add crypto risk here."
+2026-08-01T22:00:00Z,hold,none,approved,hold,,,,450.00,498.41,"Equities are closed, BTC remains below my average with no reversal signal, and ETH is still trending down, so no edge to add risk this cycle."
