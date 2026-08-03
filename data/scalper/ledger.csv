@@ -2800,3 +2800,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-03T14:40:01Z,sell,TSLA,approved,ok,-0.156848,318.59,49.97,462.01,522.59,"TSLA is -0.06% on my entry and lagging the +2.13% SPY rip it was supposed to catch up to — the catch-up thesis has not paid, cut it fast."
 2026-08-03T14:40:01Z,buy,MSFT,approved,ok,0.143999,486.12,70.00,392.01,522.59,MSFT +24.93% is the strongest megacap on the tape and it is still making highs into the close — ride the leader instead of the laggards.
 2026-08-03T14:40:01Z,buy,AMZN,approved,ok,0.210298,285.31,60.00,332.01,522.59,AMZN +23.30% is the second-strongest breakout and I already banked a winner on it this session — re-enter the same proven momentum name.
+2026-08-03T14:50:00Z,sell,MSFT,approved,ok,-0.143999,484.10,69.71,401.72,522.23,"MSFT is red on my entry at -0.41% after a +24% parabolic day — a fading extended move is the worst place to hold, cut it."
+2026-08-03T14:50:00Z,sell,AMZN,approved,ok,-0.210298,284.62,59.85,461.57,522.23,"AMZN is -0.24% on entry and stalling after +23% — same failed-breakout pattern as MSFT, free the cash rather than average into chop."
+2026-08-03T14:50:00Z,buy,NVDA,approved,ok,0.291078,206.13,60.00,401.57,522.23,NVDA is my only green position at +1.09% and +4.90% today is a non-parabolic trend with room to run — add to the winner.
+2026-08-03T14:50:00Z,buy,AAPL,approved,ok,0.180127,305.34,55.00,346.57,522.23,AAPL is -9.37% on a day when SPY is +2.14% and every other megacap is up — that dislocation is the cleanest mean-reversion snap on the board.
