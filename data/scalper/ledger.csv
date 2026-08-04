@@ -3028,3 +3028,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-04T14:10:00Z,buy,AMZN,approved,ok,0.222597,278.53,62.00,283.48,519.60,"AMZN at +20.65% is the second-strongest momentum name in the tape and we have no exposure to it yet — rotate the MSFT proceeds into fresh, less-exhausted strength."
 2026-08-04T14:20:00Z,sell,AMZN,approved,ok,-0.222597,280.95,62.54,346.02,520.19,AMZN is +0.87% on our lot after a parabolic +21.7% day — bank the scalp before the extended move mean-reverts.
 2026-08-04T14:20:00Z,buy,MSFT,approved,ok,0.125201,495.20,62.00,284.02,520.19,MSFT at +25.89% is the single strongest momentum name in the tape and still pressing highs — rotate the freed capital into leadership.
+2026-08-04T14:40:00Z,sell,MSFT,approved,ok,-0.125201,496.60,62.17,346.20,520.59,MSFT is +0.28% on our lot after a parabolic +26% day — bank the scalp and free capital before the blowoff reverses.
+2026-08-04T14:40:00Z,sell,GOOGL,approved,ok,-0.170240,375.60,63.94,410.14,520.59,GOOGL has stalled red on our lot for two cycles while the tape moves elsewhere — cut the dead position fast per the mandate.
+2026-08-04T14:40:00Z,buy,AMZN,approved,ok,0.243955,278.74,68.00,342.14,520.59,AMZN at +20.7% is the strongest non-owned momentum name in the tape and we just scalped it profitably once today — re-enter for the next leg.
+2026-08-04T14:40:00Z,buy,NVDA,approved,ok,0.285375,210.25,60.00,282.14,520.59,NVDA +6.7% is riding the QQQ/SPY risk-on breadth with room left versus the parabolic names — small starter for a fresh momentum leg.
