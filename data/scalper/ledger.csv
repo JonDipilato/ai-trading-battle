@@ -3042,3 +3042,6 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-04T15:10:03Z,buy,MSFT,approved,ok,0.124791,496.83,62.00,285.49,520.28,MSFT at +26.3% is making new highs and is the strongest name in the tape — re-enter the leader with a small starter.
 2026-08-04T15:20:00Z,sell,GOOGL,approved,ok,-0.164810,376.09,61.98,347.47,520.07,GOOGL has gone flat-to-red on our lot two cycles running while MSFT and AMZN extend — cut the dead capital and stop paying for a stalled +12.7% mover.
 2026-08-04T15:20:00Z,buy,NVDA,approved,ok,0.294971,210.19,62.00,285.47,520.07,NVDA at +6.69% is re-accelerating above QQQ (+6.27%) after our earlier flush and is the cleanest fresh momentum entry left that isn't already parabolic like MSFT.
+2026-08-04T15:40:00Z,sell,BTC-USD,approved,ok,-0.001728,63846.39,110.32,395.79,519.89,"Crypto is the weakest slot in the book at +1.64% while the equity tape rips 6-26%, so free the capital and redeploy into the strongest names."
+2026-08-04T15:40:00Z,buy,MSFT,approved,ok,0.110539,497.56,55.00,340.79,519.89,"MSFT at +26.49% is the tape leader, is green on our lot, and is extending — add to the winner."
+2026-08-04T15:40:00Z,buy,GOOGL,approved,ok,0.146288,375.97,55.00,285.79,519.89,"GOOGL +12.66% is the second-strongest single name and has re-accelerated since our exit at $376.09, so re-enter on the reclaim."
