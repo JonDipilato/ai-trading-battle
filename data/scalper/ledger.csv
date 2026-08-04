@@ -3059,3 +3059,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-04T16:50:00Z,buy,MSFT,approved,ok,0.121329,494.52,60.00,345.78,520.11,MSFT at +25.7% is the strongest tape leader and we have room for a fresh momentum lot after freeing AMZN capital.
 2026-08-04T17:10:00Z,sell,MSFT,approved,ok,-0.121329,495.49,60.12,405.89,520.39,MSFT is +26% on the day and our lot is only +0.20% — bank the scrap on the most extended blow-off name before it mean-reverts and free cash for a fresher setup.
 2026-08-04T17:10:00Z,buy,TSLA,approved,ok,0.190317,325.77,62.00,343.89,520.39,"TSLA at +5.96% is a mid-range momentum name that hasn't gone parabolic like MSFT/AMZN, giving room to run without buying the top tick."
+2026-08-04T17:20:01Z,sell,NVDA,approved,ok,-0.247383,211.35,52.28,396.18,520.54,NVDA lot is +0.55% after a +7.3% day run — bank the fast scalp on the semi leader before the extension fades.
+2026-08-04T17:20:01Z,buy,IWM,approved,ok,0.198899,301.66,60.00,336.18,520.54,"IWM at +2.83% is the least-extended broad-tape leader on a strong risk-on day, giving a fresh momentum entry with far less blow-off risk than QQQ or the +26% MSFT tape."
