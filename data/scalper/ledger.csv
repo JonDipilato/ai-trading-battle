@@ -2924,3 +2924,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-04T02:20:00Z,buy,ETH-USD,approved,ok,0.032206,1862.98,60.00,294.00,520.89,"ETH is the laggard of the two live crypto tapes at only +0.14% while BTC is +1.41%, so I add to the mean-reversion catch-up trade with the freed cash."
 2026-08-04T02:30:00Z,sell,ETH-USD,approved,ok,-0.060092,1860.74,111.82,405.81,520.75,"ETH is dead flat at +0.02% and red on my average after two adds — the laggard thesis has not paid, so I recycle the capital instead of holding a stalled tape."
 2026-08-04T02:30:00Z,buy,BTC-USD,approved,ok,0.001100,63628.99,70.00,335.81,520.75,"BTC is the only live tape with real momentum at +1.30% and holding, so I take a fresh 13% starter after being fully out of it."
+2026-08-04T02:40:00Z,buy,BTC-USD,approved,ok,0.000815,63787.07,52.00,283.81,520.93,"BTC is the only live tape with real momentum at +1.55% and it's now green on my average after the reset, so I add to the winner while equities are shut."
+2026-08-04T02:40:00Z,sell,MSFT,vetoed,market closed for this symbol,,,,283.81,520.93,MSFT is closed and untradable this cycle — nothing to do but carry it.
