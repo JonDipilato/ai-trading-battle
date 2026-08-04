@@ -3057,3 +3057,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-04T16:40:00Z,buy,NVDA,approved,ok,0.247383,210.20,52.00,350.50,519.75,"NVDA at +6.70% is firming as the semi leader with far less blow-off extension than MSFT's +26%, giving a cleaner momentum entry with room to run."
 2026-08-04T16:50:00Z,sell,AMZN,approved,ok,-0.198288,278.75,55.27,405.78,520.11,AMZN is up +20.7% and our lot is +0.50% — take the fast profit on a blow-off extended name rather than hold into a fade.
 2026-08-04T16:50:00Z,buy,MSFT,approved,ok,0.121329,494.52,60.00,345.78,520.11,MSFT at +25.7% is the strongest tape leader and we have room for a fresh momentum lot after freeing AMZN capital.
+2026-08-04T17:10:00Z,sell,MSFT,approved,ok,-0.121329,495.49,60.12,405.89,520.39,MSFT is +26% on the day and our lot is only +0.20% — bank the scrap on the most extended blow-off name before it mean-reverts and free cash for a fresher setup.
+2026-08-04T17:10:00Z,buy,TSLA,approved,ok,0.190317,325.77,62.00,343.89,520.39,"TSLA at +5.96% is a mid-range momentum name that hasn't gone parabolic like MSFT/AMZN, giving room to run without buying the top tick."
