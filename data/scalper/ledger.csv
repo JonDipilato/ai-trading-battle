@@ -3061,3 +3061,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-04T17:10:00Z,buy,TSLA,approved,ok,0.190317,325.77,62.00,343.89,520.39,"TSLA at +5.96% is a mid-range momentum name that hasn't gone parabolic like MSFT/AMZN, giving room to run without buying the top tick."
 2026-08-04T17:20:01Z,sell,NVDA,approved,ok,-0.247383,211.35,52.28,396.18,520.54,NVDA lot is +0.55% after a +7.3% day run — bank the fast scalp on the semi leader before the extension fades.
 2026-08-04T17:20:01Z,buy,IWM,approved,ok,0.198899,301.66,60.00,336.18,520.54,"IWM at +2.83% is the least-extended broad-tape leader on a strong risk-on day, giving a fresh momentum entry with far less blow-off risk than QQQ or the +26% MSFT tape."
+2026-08-04T18:10:00Z,sell,GOOGL,approved,ok,-0.164832,378.93,62.46,398.64,520.65,GOOGL is +13.55% and parabolic while our lot sits at +0.74% — bank the fast scalp before the extension unwinds.
+2026-08-04T18:10:00Z,buy,DIA,approved,ok,0.114556,541.22,62.00,336.64,520.65,"DIA at +2.72% is the least-extended broad-tape leader on a strong risk-on day, giving a fresh momentum entry with room to run."
