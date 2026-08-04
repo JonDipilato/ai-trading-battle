@@ -3071,3 +3071,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-04T18:40:00Z,buy,AAPL,approved,ok,0.194219,308.93,60.00,338.80,520.68,AAPL at -9.16% is a violent single-name dislocation against a tape where SPY is +4.18% and QQQ +7.07% — add to the snapback lot on the widest divergence available.
 2026-08-04T18:50:00Z,buy,MSFT,approved,ok,0.124906,496.37,62.00,276.80,520.71,MSFT +26.19% is the single strongest momentum name on the tape and we own zero of it — take a small 12% starter to ride the leader.
 2026-08-04T18:50:00Z,buy,GOOGL,approved,ok,0.152780,379.63,58.00,218.80,520.71,GOOGL +13.76% is the second-best trending large-cap with room under the leaders; add a 11% momentum lot alongside MSFT.
+2026-08-04T19:00:00Z,sell,META,approved,ok,-0.105202,588.28,61.89,280.69,520.43,META is the only red laggard on a broadly green tape (-0.86% while SPY +4.2%) and our lot is underwater — cut it and recycle into leadership.
+2026-08-04T19:00:00Z,buy,NVDA,approved,ok,0.281703,212.99,60.00,220.69,520.43,NVDA +8.11% is trending hard with room under the MSFT/AMZN leaders and gives us a fourth momentum slot at roughly 12% of equity.
