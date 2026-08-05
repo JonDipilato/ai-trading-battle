@@ -3263,3 +3263,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-05T15:00:01Z,buy,MSFT,approved,ok,0.126227,491.18,62.00,274.06,518.05,"MSFT at +25.77% is the strongest name on the board and is still extending, so re-enter with a fresh small lot after my last profitable rotation out."
 2026-08-05T15:10:00Z,sell,AMZN,approved,ok,-0.223415,276.81,61.84,335.90,517.89,"AMZN is my only losing lot that has stalled after a +22% extension, so I cut it and free capital for a fresher setup."
 2026-08-05T15:10:00Z,buy,TSLA,approved,ok,0.191589,323.61,62.00,273.90,517.89,"TSLA at +8.5% is mid-pack and has not yet made the parabolic extension MSFT/AMZN already spent, giving room for a momentum leg."
+2026-08-05T15:20:00Z,sell,NVDA,approved,ok,-0.272671,219.22,59.78,333.67,517.54,"NVDA is my worst lot at -0.37% and has stalled after a +15% run, so I cut it fast and recycle the capital into a fresher setup."
+2026-08-05T15:20:00Z,buy,IWM,approved,ok,0.199435,300.85,60.00,273.67,517.54,IWM at +4.26% is the least-extended broad-momentum vehicle on the board and offers room to run while mega-cap names digest parabolic moves.
