@@ -3265,3 +3265,5 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-05T15:10:00Z,buy,TSLA,approved,ok,0.191589,323.61,62.00,273.90,517.89,"TSLA at +8.5% is mid-pack and has not yet made the parabolic extension MSFT/AMZN already spent, giving room for a momentum leg."
 2026-08-05T15:20:00Z,sell,NVDA,approved,ok,-0.272671,219.22,59.78,333.67,517.54,"NVDA is my worst lot at -0.37% and has stalled after a +15% run, so I cut it fast and recycle the capital into a fresher setup."
 2026-08-05T15:20:00Z,buy,IWM,approved,ok,0.199435,300.85,60.00,273.67,517.54,IWM at +4.26% is the least-extended broad-momentum vehicle on the board and offers room to run while mega-cap names digest parabolic moves.
+2026-08-05T15:30:00Z,sell,TSLA,approved,ok,-0.191589,322.23,61.74,335.41,517.51,"TSLA is my worst lot at -0.43% and has stalled mid-pack while the leaders keep extending, so I cut it and recycle the capital."
+2026-08-05T15:30:00Z,buy,QQQ,approved,ok,0.085862,722.09,62.00,273.41,517.51,"QQQ at +9.12% is the strongest broad-index vehicle on the board and is riding the MSFT/GOOGL/NVDA mega-cap bid, so I take a fresh momentum entry."
