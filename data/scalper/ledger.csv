@@ -3461,3 +3461,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T14:20:01Z,buy,META,approved,ok,0.076342,589.45,45.00,45.33,515.45,"META +9.35% holds its breakout and is my second-smallest position, topping up while the trend is intact."
 2026-08-06T14:20:01Z,hold,NVDA,approved,hold,,,,45.33,515.45,"NVDA +13.3% is still trending; my entry is flat and near the cap, so no add and no exit signal."
 2026-08-06T14:20:01Z,hold,AMZN,approved,hold,,,,45.33,515.45,"AMZN +16.4% remains the tape leader but sits at the 25% cap, so I hold the full position."
+2026-08-06T14:30:00Z,sell,NVDA,approved,ok,-0.505176,219.89,111.08,156.41,514.16,"NVDA is my only red position and its tape momentum is decelerating (+13.7% earlier, +12.7% now), so I cut the fading loser fast per mandate."
+2026-08-06T14:30:00Z,buy,GOOGL,approved,ok,0.213586,360.51,77.00,79.41,514.16,"GOOGL +8.05% is the strongest listed name I don't own, so I rotate ~15% of equity into fresh momentum with the freed slot."
+2026-08-06T14:30:00Z,hold,MSFT,approved,hold,,,,79.41,514.16,"MSFT +10.12% holds its breakout with my entry green but sits near the 25% cap, so no add."
+2026-08-06T14:30:00Z,hold,AMZN,approved,hold,,,,79.41,514.16,"AMZN +15.79% remains tape leader at the position cap, so I let the winner run."
+2026-08-06T14:30:00Z,hold,META,approved,hold,,,,79.41,514.16,META +9.49% is intact and green from entry with no exit signal and minimal cap room.
