@@ -3507,3 +3507,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T16:20:00Z,hold,AMZN,approved,hold,,,,111.84,513.07,"AMZN is at the 25% position cap and still pinned near +16% with no decay, so I let the winner ride."
 2026-08-06T16:20:00Z,hold,NVDA,approved,hold,,,,111.84,513.07,"NVDA is at the position cap and green (+0.23%) with the day trend intact at +12.1%, nothing to add or trim."
 2026-08-06T16:20:00Z,hold,MSFT,approved,hold,,,,111.84,513.07,"MSFT eased only slightly (+9.86% to +9.71%) and the position is just -0.14%, so it gets one more cycle before I cut."
+2026-08-06T16:30:00Z,buy,META,approved,ok,0.084841,589.34,50.00,61.84,513.04,"META is still the strongest momentum name with headroom under the cap (+9.33% day, position green and drifting up since entry), so I'm adding ~10% of equity from idle cash."
+2026-08-06T16:30:00Z,hold,AMZN,approved,hold,,,,61.84,513.04,"AMZN is pinned at the 25% cap and still holding +16% with no decay, so I let the winner run."
+2026-08-06T16:30:00Z,hold,NVDA,approved,hold,,,,61.84,513.04,"NVDA is at the cap and green with the +12% day trend intact, nothing to do but hold."
+2026-08-06T16:30:00Z,hold,MSFT,approved,hold,,,,61.84,513.04,"MSFT eased only from +9.71% to +9.67% (noise) and the position is just -0.18%, so it gets one more cycle but exits next cycle if decay continues or the position hits -0.75%."
