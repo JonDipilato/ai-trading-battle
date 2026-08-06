@@ -3484,3 +3484,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T15:10:00Z,hold,AMZN,approved,hold,,,,75.71,514.22,"AMZN +16.2% remains the tape leader, only marginally off its cycle high with entry green and no breakdown."
 2026-08-06T15:10:00Z,hold,META,approved,hold,,,,75.71,514.22,"META +9.7% cooled slightly but is green from entry, near the position cap, and shows no breakdown."
 2026-08-06T15:10:00Z,hold,MSFT,approved,hold,,,,75.71,514.22,MSFT +10.3% is still grinding near its highs with entry green and the position near the 25% cap.
+2026-08-06T15:20:00Z,sell,MSFT,approved,ok,-0.232276,494.86,114.94,190.65,513.16,MSFT momentum decayed three cycles straight (+10.5% to +10.3% to +9.7%) with entry now red — cutting the weakest holding before the fade deepens.
+2026-08-06T15:20:00Z,buy,NVDA,approved,ok,0.353284,217.96,77.00,113.65,513.16,Re-entering NVDA at +11.75% — its decay has flattened since I exited and it's the strongest available momentum name with AMZN already at the position cap.
+2026-08-06T15:20:00Z,hold,AMZN,approved,hold,,,,113.65,513.16,AMZN +16.21% is still the tape leader holding its highs with entry green — no reason to touch it at the cap.
+2026-08-06T15:20:00Z,hold,META,approved,hold,,,,113.65,513.16,META +9.34% is cooling slightly but flat from entry — one more cycle of decay and it becomes the next cut candidate.
+2026-08-06T15:20:00Z,hold,GOOGL,approved,hold,,,,113.65,513.16,GOOGL +7.64% is a fresh entry only one cycle old and barely off entry — giving the rotation thesis room to work.
