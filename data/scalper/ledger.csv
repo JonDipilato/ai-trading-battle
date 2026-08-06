@@ -3470,3 +3470,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T14:40:00Z,hold,AMZN,approved,hold,,,,29.41,514.85,"AMZN +16.2% is still accelerating as tape leader but sits at the position cap, so I let the winner run."
 2026-08-06T14:40:00Z,hold,META,approved,hold,,,,29.41,514.85,"META +10.1% is re-accelerating from +9.5% last cycle with my entry green; near cap, no exit signal."
 2026-08-06T14:40:00Z,hold,MSFT,approved,hold,,,,29.41,514.85,MSFT +9.9% holds its breakout near the cap with entry green; no reason to cut a working position.
+2026-08-06T14:50:00Z,sell,GOOGL,approved,ok,-0.352440,360.06,126.90,156.31,514.36,"GOOGL +7.9% is the weakest momentum on my book and red from entry while NVDA runs harder, so I free the slot and capital."
+2026-08-06T14:50:00Z,buy,NVDA,approved,ok,0.570164,219.24,125.00,31.31,514.36,"NVDA +12.4% is the strongest uncapped momentum on the tape, so I rotate the freed GOOGL capital into the faster horse just under the 25% cap."
+2026-08-06T14:50:00Z,hold,AMZN,approved,hold,,,,31.31,514.36,"AMZN +15.9% remains tape leader at the position cap with entry flat, so the winner keeps running."
+2026-08-06T14:50:00Z,hold,META,approved,hold,,,,31.31,514.36,"META +9.4% cooled slightly from +10.1% but is green from entry with no breakdown, so no exit signal yet."
+2026-08-06T14:50:00Z,hold,MSFT,approved,hold,,,,31.31,514.36,"MSFT +10.3% is still accelerating cycle-over-cycle near the cap with entry green, so I stay in."
