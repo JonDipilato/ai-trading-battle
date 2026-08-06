@@ -3479,3 +3479,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T15:00:00Z,hold,AMZN,approved,hold,,,,21.31,515.68,"AMZN +16.4% is still the tape leader and making new cycle highs at the position cap, so the winner keeps running."
 2026-08-06T15:00:00Z,hold,NVDA,approved,hold,,,,21.31,515.68,"NVDA +12.4% momentum stalled this cycle but entry is flat and no breakdown, so it gets one more cycle to reassert before I rotate."
 2026-08-06T15:00:00Z,hold,MSFT,approved,hold,,,,21.31,515.68,"MSFT +10.5% keeps grinding higher cycle-over-cycle near the cap with entry green, so no reason to touch it."
+2026-08-06T15:10:00Z,sell,NVDA,approved,ok,-0.570164,218.18,124.40,145.71,514.22,"NVDA momentum decayed from +12.4% to +11.9% across two cycles with the position red at -0.48%, so I cut the loser fast."
+2026-08-06T15:10:00Z,buy,GOOGL,approved,ok,0.194617,359.68,70.00,75.71,514.22,"GOOGL +7.8% is the strongest momentum name I don't hold, and rotating NVDA proceeds into it keeps me at 4 positions with a ~13.6% equity entry."
+2026-08-06T15:10:00Z,hold,AMZN,approved,hold,,,,75.71,514.22,"AMZN +16.2% remains the tape leader, only marginally off its cycle high with entry green and no breakdown."
+2026-08-06T15:10:00Z,hold,META,approved,hold,,,,75.71,514.22,"META +9.7% cooled slightly but is green from entry, near the position cap, and shows no breakdown."
+2026-08-06T15:10:00Z,hold,MSFT,approved,hold,,,,75.71,514.22,MSFT +10.3% is still grinding near its highs with entry green and the position near the 25% cap.
