@@ -3457,3 +3457,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T14:10:00Z,buy,META,approved,ok,0.059152,591.69,35.00,145.33,515.74,"META +9.8% is my best-performing entry at +0.92% and my smallest position after the earlier scale-out, so I'm rebuilding into continued strength."
 2026-08-06T14:10:00Z,hold,NVDA,approved,hold,,,,145.33,515.74,"NVDA +13.7% is trending but already near the 25% position cap, so I hold rather than add."
 2026-08-06T14:10:00Z,hold,MSFT,approved,hold,,,,145.33,515.74,MSFT +9.8% is holding its breakout with my entry green and no exit signal.
+2026-08-06T14:20:01Z,buy,MSFT,approved,ok,0.110513,497.68,55.00,90.33,515.45,"MSFT +10.3% is my strongest entry at +1.00% with room under the cap, so I press the winner."
+2026-08-06T14:20:01Z,buy,META,approved,ok,0.076342,589.45,45.00,45.33,515.45,"META +9.35% holds its breakout and is my second-smallest position, topping up while the trend is intact."
+2026-08-06T14:20:01Z,hold,NVDA,approved,hold,,,,45.33,515.45,"NVDA +13.3% is still trending; my entry is flat and near the cap, so no add and no exit signal."
+2026-08-06T14:20:01Z,hold,AMZN,approved,hold,,,,45.33,515.45,"AMZN +16.4% remains the tape leader but sits at the 25% cap, so I hold the full position."
