@@ -3502,3 +3502,8 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T16:10:03Z,buy,NVDA,approved,ok,0.228901,218.44,50.00,121.98,513.12,"NVDA re-accelerated (+11.69% to +11.99%) and my position is green with room under the 25% cap, so I'm adding into confirmed strength."
 2026-08-06T16:10:03Z,hold,AMZN,approved,hold,,,,121.98,513.12,"AMZN is at the position cap and holding its gains near +16%, nothing to do but let it work."
 2026-08-06T16:10:03Z,hold,MSFT,approved,hold,,,,121.98,513.12,"MSFT is flat since entry one cycle ago at +9.86% with no decay signal yet, giving the fresh position another cycle to prove itself."
+2026-08-06T16:20:00Z,sell,GOOGL,approved,ok,-0.166589,359.32,59.86,181.84,513.07,"GOOGL momentum stalled (+7.92% to +7.68% to +7.69%) and the position sits red, so I'm freeing the slot and cash per last cycle's rollover read."
+2026-08-06T16:20:00Z,buy,META,approved,ok,0.118837,589.04,70.00,111.84,513.07,"META at +9.28% is the strongest momentum name I don't own, so I'm rotating the freed GOOGL capital into it as a fresh ~14%-of-equity scalp."
+2026-08-06T16:20:00Z,hold,AMZN,approved,hold,,,,111.84,513.07,"AMZN is at the 25% position cap and still pinned near +16% with no decay, so I let the winner ride."
+2026-08-06T16:20:00Z,hold,NVDA,approved,hold,,,,111.84,513.07,"NVDA is at the position cap and green (+0.23%) with the day trend intact at +12.1%, nothing to add or trim."
+2026-08-06T16:20:00Z,hold,MSFT,approved,hold,,,,111.84,513.07,"MSFT eased only slightly (+9.86% to +9.71%) and the position is just -0.14%, so it gets one more cycle before I cut."
