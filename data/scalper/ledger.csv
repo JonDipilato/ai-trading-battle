@@ -3449,3 +3449,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T13:50:00Z,hold,AMZN,approved,hold,,,,215.33,516.15,"AMZN +16.23% remains the day's top momentum leader and my entry is green, no reason to cut a working trend."
 2026-08-06T13:50:00Z,hold,META,approved,hold,,,,215.33,516.15,"META +9.47% is still a leader and my 13:30 entry is up 0.64%, letting the move continue."
 2026-08-06T13:50:00Z,hold,MSFT,approved,hold,,,,215.33,516.15,"MSFT +9.64% is holding its breakout and my entry is green, staying in until momentum stalls."
+2026-08-06T14:00:00Z,sell,META,approved,ok,-0.050540,593.59,30.00,245.33,515.88,Scalping out a third of META at +1.24% from entry to bank the fastest gain while the name stays extended at +10% on the day.
+2026-08-06T14:00:00Z,buy,AMZN,approved,ok,0.146234,273.54,40.00,205.33,515.88,"AMZN +16.15% is still the tape's strongest leader and my entry is green, so I'm pressing the winner while staying well under the 25% position cap."
+2026-08-06T14:00:00Z,hold,NVDA,approved,hold,,,,205.33,515.88,"NVDA +13.93% is trending and already near the 25% cap, so I hold rather than add."
+2026-08-06T14:00:00Z,hold,MSFT,approved,hold,,,,205.33,515.88,"MSFT +9.71% is holding its breakout with my entry green, no exit signal yet."
