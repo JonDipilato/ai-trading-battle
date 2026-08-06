@@ -3489,3 +3489,7 @@ ts_utc,action,symbol,verdict,reason,qty,price,usd,cash_after,equity_after,thesis
 2026-08-06T15:20:00Z,hold,AMZN,approved,hold,,,,113.65,513.16,AMZN +16.21% is still the tape leader holding its highs with entry green — no reason to touch it at the cap.
 2026-08-06T15:20:00Z,hold,META,approved,hold,,,,113.65,513.16,META +9.34% is cooling slightly but flat from entry — one more cycle of decay and it becomes the next cut candidate.
 2026-08-06T15:20:00Z,hold,GOOGL,approved,hold,,,,113.65,513.16,GOOGL +7.64% is a fresh entry only one cycle old and barely off entry — giving the rotation thesis room to work.
+2026-08-06T15:40:00Z,buy,GOOGL,approved,ok,0.138972,359.79,50.00,63.65,513.26,"GOOGL is the only name accelerating cycle-over-cycle (+7.64% to +7.83%) with entry green, so I'm deploying idle cash to scale it toward the position cap while it strengthens."
+2026-08-06T15:40:00Z,hold,AMZN,approved,hold,,,,63.65,513.26,AMZN +16.25% remains the tape leader pinned at highs and near my 25% cap — nothing to do but let it work.
+2026-08-06T15:40:00Z,hold,META,approved,hold,,,,63.65,513.26,"META ticked up +9.34% to +9.36% instead of decaying a second cycle, so the exit trigger didn't fire — holding with a tight leash."
+2026-08-06T15:40:00Z,hold,NVDA,approved,hold,,,,63.65,513.26,"NVDA is off -0.12% one cycle after re-entry with only mild drift (+11.75% to +11.61%) — giving it one more cycle, but a second red cycle means I cut and rotate into resurging MSFT."
